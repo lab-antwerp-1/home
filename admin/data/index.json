@@ -1,0 +1,16 @@
+{
+  "orgName": "lab-antwerp-1",
+  "repoName": "home",
+  "curriculumUserName": "HackYourFutureBelgium",
+  "curriculumOrigin": "https://home.hackyourfuture.be/curriculum",
+  "boards": [
+    {
+      "name": "deliverables",
+      "number": 1
+    },
+    {
+      "name": "side-projects",
+      "number": 2
+    }
+  ]
+}

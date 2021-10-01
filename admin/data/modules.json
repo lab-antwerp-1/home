@@ -1,0 +1,73 @@
+[
+  {
+    "milestone": 1,
+    "name": "precourse",
+    "board": "deliverables"
+  },
+  {
+    "milestone": 2,
+    "name": "workflows",
+    "chapters": 2,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 3,
+    "name": "agile-development",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 4,
+    "name": "ux-ui-design",
+    "chapters": 2,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 5,
+    "name": "welcome-to-js",
+    "chapters": 2,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 6,
+    "name": "debugging",
+    "chapters": 4,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 7,
+    "name": "behavior-strategy-implementation",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 8,
+    "name": "separation-of-concerns",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 9,
+    "name": "architecture",
+    "chapters": 4,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 10,
+    "name": "asynchronous-programming",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 11,
+    "name": "cloud-based-backends",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 13,
+    "name": "final-project",
+    "chapters": 4,
+    "board": "deliverables"
+  }
+]
