@@ -9,8 +9,14 @@ Play one of these games and you'll learn something without even knowing it.
 
 ## Typing Games
 
-- Typer: [game](https://berkerol.ml/typer/typer.html),
-  [source](https://github.com/berkerol/typer)
+- [shortcutfoo.com](https://www.shortcutfoo.com/)
+- [speedcoder.net](https://www.speedcoder.net/lessons/)
+- [speedtyper.dev](https://www.speedtyper.dev/)
+- [typing.io](https://typing.io/)
+- [how-to-type.com](https://www.how-to-type.com/typing-practice/programming/)
+- [thepracticetest.com](https://thepracticetest.com/typing/practice/programming-symbols/)
+- [mltype](https://github.com/jankrepl/mltype)
+- [Typer](https://berkerol.github.io/typer/)
 
 ---
 
