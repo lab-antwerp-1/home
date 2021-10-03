@@ -10,7 +10,7 @@ labels: deliverable
 
   - milestone: the current module
   - assign: yourself (and all group members, if it's a group project)
-  - labels: `week-x`, `individual` or `group`
+  - labels: `individual` or `group`
   - project board: move this issue to the `deliverables` board
 -->
 
