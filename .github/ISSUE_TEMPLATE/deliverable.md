@@ -25,4 +25,4 @@ labels: deliverable
 
 <!-- describe the deliverable -->
 
-<!-- paste the checklist from the module README -->
+<!-- paste the checklist from the module Deliverables page -->
