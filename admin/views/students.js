@@ -5,7 +5,7 @@ const renderStudent = (student, mainData) => {
   const repoURL = `${orgURL}/${mainData.repoName}`;
   const studentProfile =
     `<table> <tr>\n` +
-    `  <td><img src='./admin/avatars/students/${student.userName}.jpeg' height="150px" width="150px" alt='${student.userName} avatar' /></td>\n` +
+    `  <td><img src='./admin/avatars/students/${student.userName}.jpeg' height="200px" width="200px" alt='${student.userName} avatar' /></td>\n` +
     `  <td> <h3 display="inline">${student.name}</h3>\n` +
     `    <ul>\n` +
     `       <li>about: <a href="./student-bios/${student.userName}.md" target="_blank">bio</a>,` +
