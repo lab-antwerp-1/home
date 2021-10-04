@@ -33,7 +33,12 @@ ${
 > - [Random Groups](https://${mainData.orgName}.github.io/${
   mainData.repoName
 }/randomizer)
-
+> <details>
+> <summary>Rubber Ducky</summary>
+>
+> [![Rubber Ducky](./rubber-ducky.png)](https://rubberduckdebugging.com/)
+>
+>  </details>
 
 `;
 
