@@ -1,13 +1,14 @@
 <!-- BEGIN HEADER -->
 
+
 # Lab Antwerp 1
 
-> - [Issues](https://github.com/lab-antwerp-1/home/issues):
->   [`help-wanted`](https://github.com/lab-antwerp-1/home/issues?q=is%3Aopen+label%3Ahelp-wanted),
->   [`question`](https://github.com/lab-antwerp-1/home/issues?q=is%3Aopen+label%3Aquestion)
+> - [Issues](https://github.com/lab-antwerp-1/home/issues): [`help-wanted`](https://github.com/lab-antwerp-1/home/issues?q=is%3Aopen+label%3Ahelp%20wanted), [`question`](https://github.com/lab-antwerp-1/home/issues?q=is%3Aopen+label%3Aquestion)
 > - [Discussions](https://github.com/lab-antwerp-1/home/discussions/)
 > - [Deliverables](https://github.com/lab-antwerp-1/home/projects/1)
 > - [Random Groups](https://lab-antwerp-1.github.io/home/randomizer)
+
+
 
 <!-- END HEADER -->
 
@@ -17,6 +18,9 @@ workflows, ... to do everything!
 
 Slack is great for chatting but links and good explanations can easily get lost
 in message history. Think of this repository as your class' forum and home page.
+## Class-Calander 
+![Lesson Plan Calendar](assets/LessonPlanCalendar.jpg)
+
 
 - [Modules](#modules)
 - [Students](#students)
@@ -53,8 +57,8 @@ in message history. Think of this repository as your class' forum and home page.
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/final-project" style="display: inline">final-project</a></h3>  <ul><li><p>    4 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Afinal-project">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3Afinal-project+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/lab-antwerp-1/home/milestone/13">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/final-project">materials</a>  </p></li></ul></li>
 </ol><br>
 
-[TOP](#home)
 
+[TOP](#home)
 <!-- END MODULES -->
 
 ---
@@ -317,10 +321,21 @@ in message history. Think of this repository as your class' forum and home page.
     </ul>
   </td>
 </tr></table> </li>
+<li><table> <tr>
+  <td><img src='./admin/avatars/students/NajiSarah.jpeg' height="150px" width="150px" alt='NajiSarah avatar' /></td>
+  <td> <h3 display="inline">sarah Naji</h3>
+    <ul>
+       <li>about: <a href="./student-bios/NajiSarah.md" target="_blank">bio</a>,      <a href="https://NajiSarah.github.io">home page</a>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3ANajiSarah">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3ANajiSarah+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3ANajiSarah+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3ANajiSarah">authored</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3ANajiSarah+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3ANajiSarah">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3ANajiSarah">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3ANajiSarah+is%3Apr">reviewed</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3ANajiSarah">commented</a></li>
+        <li>github: <a href="https://github.com/NajiSarah">NajiSarah</a>, <a href="https://github.com/lab-antwerp-1/NajiSarah">private repo</a></li>
+    </ul>
+  </td>
+</tr></table> </li>
 </ul><br>
 
-[TOP](#home)
 
+[TOP](#home)
 <!-- END STUDENTS -->
 
 ---
@@ -332,8 +347,8 @@ in message history. Think of this repository as your class' forum and home page.
 
 </ul><br>
 
-[TOP](#home)
 
+[TOP](#home)
 <!-- END COACHES -->
 
 ---
