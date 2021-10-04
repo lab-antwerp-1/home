@@ -36,7 +36,7 @@ ${
 > <details>
 > <summary>Rubber Ducky</summary>
 >
-> [![Rubber Ducky](./rubber-ducky.png)](https://rubberduckdebugging.com/)
+> [![Rubber Ducky](./assets/rubber-ducky.png)](https://rubberduckdebugging.com/)
 >
 >  </details>
 

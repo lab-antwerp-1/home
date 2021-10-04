@@ -7,6 +7,7 @@ const mainData = require("../data/index.json");
 const repoURL = `https://github.com/${mainData.orgName}/${mainData.repoName}`;
 
 const toc = `
+- [Class Calendar](#class-calendar)
 - [Modules](#modules)
 - [Students](#students)
 - [Coaches](#coaches)
