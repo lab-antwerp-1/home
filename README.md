@@ -53,7 +53,7 @@ in message history. Think of this repository as your class' forum and home page.
 <summary>expand/collapse</summary>
 <br>
 
-![Lesson Plan Calendar](./assets/lesson-plan-calendar.jpg)
+![Lesson Plan Calendar](./assets/lesson-plan-calendar.png)
 
 </details>
 
