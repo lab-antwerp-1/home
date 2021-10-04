@@ -356,13 +356,14 @@ in message history. Think of this repository as your class' forum and home page.
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./admin/avatars/students/NajiSarah.jpeg' height="150px" width="150px" alt='NajiSarah avatar' /></td>
+  <td><img src='./admin/avatars/students/NajiSarah.jpeg' height="200px" width="200px" alt='NajiSarah avatar' /></td>
   <td> <h3 display="inline">sarah Naji</h3>
     <ul>
-       <li>about: <a href="./student-bios/NajiSarah.md" target="_blank">bio</a>,      <a href="https://NajiSarah.github.io">home page</a>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3ANajiSarah">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3ANajiSarah+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3ANajiSarah+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3ANajiSarah">authored</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3ANajiSarah+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3ANajiSarah">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3ANajiSarah">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3ANajiSarah+is%3Apr">reviewed</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3ANajiSarah">commented</a></li>
-        <li>github: <a href="https://github.com/NajiSarah">NajiSarah</a>, <a href="https://github.com/lab-antwerp-1/NajiSarah">private repo</a></li>
+       <li>about: <a href="./student-bios/NajiSarah.md" target="_blank">bio</a>,      <a href="https://NajiSarah.github.io">home page</a>, <a href="https://github.com/NajiSarah">NajiSarah</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3ANajiSarah">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3ANajiSarah+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3ANajiSarah+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3ANajiSarah">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3ANajiSarah+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3ANajiSarah">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3ANajiSarah">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3ANajiSarah+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3ANajiSarah">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3ANajiSarah+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3ANajiSarah">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3ANajiSarah">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3ANajiSarah">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3ANajiSarah">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3ANajiSarah">discussions</a>
+        <li><a href="https://github.com/lab-antwerp-1/NajiSarah">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
