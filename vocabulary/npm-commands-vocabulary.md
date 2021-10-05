@@ -5,4 +5,4 @@
 `npn run format`
 |
 
-[npm run format](https://github.com/lab-antwerp-1/home/blob/feature-aviv-vocabulary-update/vocabulary/pix/npmformat.gif)
+![npm run format](https://imgur.com/gallery/WzvJ33)
