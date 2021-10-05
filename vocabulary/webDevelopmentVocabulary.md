@@ -6,7 +6,7 @@ Agile web development essentially refers to a particular way of working, and
 you’ll often hear this term in the startup world. In an agile team, web
 developers will work according to weekly or biweekly sprints. A sprint usually
 consists of five phases: design, develop, test, deploy and
-review.[more](https://www.hudsonintegrated.com/blog/the-shift-to-agile-web-development).
+review [more](https://www.hudsonintegrated.com/blog/the-shift-to-agile-web-development).
 
 1.  Application
 
