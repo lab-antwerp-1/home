@@ -8,6 +8,7 @@
 > - [Discussions](https://github.com/lab-antwerp-1/home/discussions/)
 > - [Deliverables](https://github.com/lab-antwerp-1/home/projects/1)
 > - [Random Groups](https://lab-antwerp-1.github.io/home/randomizer)
+>
 > <details>
 > <summary>Rubber Ducky</summary>
 >
@@ -26,13 +27,18 @@ in message history. Think of this repository as your class' forum and home page.
 
 <!-- BEGIN TOC -->
 
-- [Class Calendar](#class-calendar)
-- [Modules](#modules)
-- [Students](#students)
-- [Coaches](#coaches)
-- Class Notes
-  - [Vocabulary](./vocabulary)
-    (_[PRs](https://github.com/lab-antwerp-1/home/pulls?q=label%3Avocabulary)_)
+- [Lab Antwerp 1](#lab-antwerp-1)
+  - [Class Calendar](#class-calendar)
+  - [Modules](#modules)
+  - [Students](#students)
+  - [Coaches](#coaches)
+  - [Using this Repo](#using-this-repo)
+    - [Help Wanted](#help-wanted)
+    - [Question](#question)
+    - [Check-Ins](#check-ins)
+    - [Deliverable](#deliverable)
+    - [Roll-Calls](#roll-calls)
+      (_[PRs](https://github.com/lab-antwerp-1/home/pulls?q=label%3Avocabulary)_)
   - [Snippets](./snippets)
     (_[PRs](https://github.com/lab-antwerp-1/home/pulls?q=label%3Asnippets)_)
   - [Chill Zone](./chill-zone)
