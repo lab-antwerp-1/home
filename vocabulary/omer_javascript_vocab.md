@@ -1,5 +1,5 @@
 # General Terms
- 
+
 
 ## Document
      This is an object name that refers specifically to the HTML document that contains the Javascript.
