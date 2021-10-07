@@ -13,3 +13,4 @@ jobs:
 
       - run: npm install
       - run: npm run format
+      - run: npm run lint:md
