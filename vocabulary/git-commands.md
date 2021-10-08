@@ -46,7 +46,7 @@ If you want to see the staged changes, run the diff command like this:
 
 - git diff --staged
 
-Or you can compare two branches:
+Or you can compare two branches.
 
 - gif diff [branch1] [branch2]
 
