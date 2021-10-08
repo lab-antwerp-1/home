@@ -1,6 +1,5 @@
 <!-- BEGIN HEADER -->
-
-# Actions
+# Action
 
 <!-- END HEADER -->
 
