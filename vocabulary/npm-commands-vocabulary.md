@@ -10,7 +10,7 @@
 
 ### formatting
 
-`npn run format`
+`npm run format`
 
 > this command will assure your code is well formatted, free of syntax errors
 > and ready for merging.
