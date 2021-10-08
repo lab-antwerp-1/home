@@ -12,4 +12,4 @@ also progress. If you think the files or lists should be reorganized send a PR!
 Just be sure to get plenty of feedback before merging your refactored lists,
 your classmates will also need to use these lists.
 
-Translations are more than welcome!
+Translations are welcome!
