@@ -33,3 +33,5 @@
 > this command will check your code for spelling errors.
 
 ![npm run spell-check](https://raw.githubusercontent.com/lab-antwerp-1/home/feature-aviv-vocabulary-update/vocabulary/pix/npmspellcheck.gif)
+
+for more [information](https://www.youtube.com/watch?v=P3aKRdUyr0s)
