@@ -8,3 +8,14 @@ Cascading Style Sheet
 
 HyperText Markup Language
 
+## ACE
+
+Access Control Entry
+
+## ADSL
+
+Asymmetric Digital Subscriber Line
+
+## COBOL
+
+Common Business Oriented
