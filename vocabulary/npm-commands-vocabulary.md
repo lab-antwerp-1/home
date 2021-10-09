@@ -15,7 +15,7 @@
 > this command will assure your code is well formatted, free of syntax errors
 > and ready for merging.
 
-![npm run format](https://raw.githubusercontent.com/lab-antwerp-1/home/feature-aviv-vocabulary-update/vocabulary/pix/npmformat.gif)
+![npm run format](https://raw.githubusercontent.com/lab-antwerp-1/home/main/vocabulary/pix/npmformat.gif)
 
 ### linting
 
@@ -24,7 +24,7 @@
 > this command will scan your code for "lint", small mistakes such as wrong case
 > letters, spacing and deviations from the standard form.
 
-![npm run lint:md](https://raw.githubusercontent.com/lab-antwerp-1/home/feature-aviv-vocabulary-update/vocabulary/pix/npmlintmd.gif)
+![npm run lint:md](https://raw.githubusercontent.com/lab-antwerp-1/home/main/vocabulary/pix/npmlintmd.gif)
 
 ### spellchecking
 
@@ -32,6 +32,6 @@
 
 > this command will check your code for spelling errors.
 
-![npm run spell-check](https://raw.githubusercontent.com/lab-antwerp-1/home/feature-aviv-vocabulary-update/vocabulary/pix/npmspellcheck.gif)
+![npm run spell-check](https://raw.githubusercontent.com/lab-antwerp-1/home/main/vocabulary/pix/npmspellcheck.gif)
 
 for more [information](https://www.youtube.com/watch?v=P3aKRdUyr0s)
