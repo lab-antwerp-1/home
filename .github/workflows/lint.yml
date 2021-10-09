@@ -17,10 +17,10 @@ on:
   # but only for the main branch
   push:
     branches:
-      - main
+      - githubvocabulary
   pull_request:
     branches:
-      - main
+      - githubvocabulary
 
 jobs:
   run-linters:
