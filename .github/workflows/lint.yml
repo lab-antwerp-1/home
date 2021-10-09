@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 name: Lint
 
 on:
@@ -33,3 +34,17 @@ jobs:
         with:
           eslint: true
           prettier: true
+=======
+name: lint
+
+on:
+  pull_request:
+    branches: [master, main]
+
+jobs:
+  lint-md:
+    runs-on: ubuntu-latest
+    steps:
+      - run: npm install
+      - run: npm run lint:md
+>>>>>>> parent of 1c77ecb (Update lint.yml)
