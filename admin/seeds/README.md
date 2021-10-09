@@ -11,19 +11,16 @@ workflows, ... to do everything!
 Slack is great for chatting but links and good explanations can easily get lost
 in message history. Think of this repository as your class' forum and home page.
 
-- [Modules](#modules)
-- [Students](#students)
-- [Coaches](#coaches)
-- Class Notes
-  - [Vocabulary](./vocabulary)
-  - [Snippets](./snippets)
-  - [Chill Zone](./chill-zone)
-- HYF Links
-  - [Student Guidebook](https://home.hackyourfuture.be/students)
-  - [Curriculum](https://home.hackyourfuture.be/curriculum)
-  - [Study Book](https://hackyourfuture.github.io/study)
-  - [GitHub](https://github.com/hackyourfuturebelgium)
-- [Using this Repo](#using-this-repo)
+- [Action](#action)
+  - [Modules](#modules)
+  - [Students](#students)
+  - [Coaches](#coaches)
+  - [Using this Repo](#using-this-repo)
+    - [Help Wanted](#help-wanted)
+    - [Question](#question)
+    - [Check-Ins](#check-ins)
+    - [Deliverable](#deliverable)
+    - [Roll-Calls](#roll-calls)
 
 ---
 
