@@ -17,10 +17,10 @@ on:
   # but only for the main branch
   push:
     branches:
-      - githubvocabulary
+      - main
   pull_request:
     branches:
-      - githubvocabulary
+      - main
 
 jobs:
   run-linters:
@@ -41,7 +41,7 @@ jobs:
         run: npm ci
 
       - name: Run linters
-        uses: wearerequired/lint-action@v1
+        uses: action/lint-action@v1
         with:
           eslint: true
           prettier: true
