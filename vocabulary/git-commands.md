@@ -67,4 +67,4 @@ Or all files:
 
 ## git branch
 
-Using git branch will list all the branches of the repository:
+Using git branch will list all the branches of the repository.
