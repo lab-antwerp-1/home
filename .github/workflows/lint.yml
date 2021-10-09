@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 name: Lint
 
 on:
@@ -35,6 +36,8 @@ jobs:
           eslint: true
           prettier: true
 =======
+=======
+>>>>>>> parent of 1c77ecb (Update lint.yml)
 name: lint
 
 on:
@@ -47,4 +50,7 @@ jobs:
     steps:
       - run: npm install
       - run: npm run lint:md
+<<<<<<< HEAD
+>>>>>>> parent of 1c77ecb (Update lint.yml)
+=======
 >>>>>>> parent of 1c77ecb (Update lint.yml)
