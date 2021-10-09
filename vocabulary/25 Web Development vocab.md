@@ -1,6 +1,6 @@
 # 25 Web Development Vocabulary
 
-## 1. Agile
+## 1. Agile 
 
 A is for agile, a major buzzword across the entire tech industry right now. Agile web development essentially refers to a particular way of working, and you’ll often hear this term in the startup world. In an agile team, web developers will work according to weekly or biweekly sprints. A sprint usually consists of five phases: design, develop, test, deploy and review. You can learn more about agile web development in this article.
 
