@@ -23,7 +23,7 @@ know each other, to share helpful resources, to practice collaboration
 workflows, ... to do everything!
 
 Slack is great for chatting but links and good explanations can easily get lost
-in message history. Think of this repository as your class' forum and home page.
+in message history. Think of this repository as your class' forum and home page.  
 
 <!-- BEGIN TOC -->
 
