@@ -3,12 +3,11 @@
 # Lab Antwerp 1
 
 > - [Issues](https://github.com/lab-antwerp-1/home/issues):
->   [`help-wanted`](https://github.com/lab-antwerp-1/home/issues?q=is%3Aopen+label%3Ahelp%20wanted),
+>   [`help-wanted`](https://github.com/lab-antwerp-1/home/issues?q=is%3Aopen+label%3Ahelp-wanted),
 >   [`question`](https://github.com/lab-antwerp-1/home/issues?q=is%3Aopen+label%3Aquestion)
 > - [Discussions](https://github.com/lab-antwerp-1/home/discussions/)
 > - [Deliverables](https://github.com/lab-antwerp-1/home/projects/1)
 > - [Random Groups](https://lab-antwerp-1.github.io/home/randomizer)
->
 > <details>
 > <summary>Rubber Ducky</summary>
 >
