@@ -180,18 +180,6 @@ in message history. Think of this repository as your class' forum and home page.
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./admin/avatars/students/dawit263.jpeg' height="200px" width="200px" alt='dawit263 avatar' /></td>
-  <td> <h3 display="inline">Dawit Netsereab</h3>
-    <ul>
-       <li>about: <a href="./student-bios/dawit263.md" target="_blank">bio</a>,      <a href="https://dawit263.github.io">home page</a>, <a href="https://github.com/dawit263">dawit263</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Adawit263">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Adawit263+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Adawit263+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Adawit263">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Adawit263+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Adawit263">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Adawit263">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Adawit263+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Adawit263">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Adawit263+is%3Apr">reviewed</a></li>
-       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Adawit263">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Adawit263">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Adawit263">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Adawit263">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Adawit263">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Adawit263">discussions</a>
-        <li><a href="https://github.com/lab-antwerp-1/dawit263">private repo</a></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
   <td><img src='./admin/avatars/students/edualfaro.jpeg' height="200px" width="200px" alt='edualfaro avatar' /></td>
   <td> <h3 display="inline">Eduardo Alfaro Bautista</h3>
     <ul>
@@ -260,18 +248,6 @@ in message history. Think of this repository as your class' forum and home page.
         <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Amniyomukiza">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Amniyomukiza+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Amniyomukiza">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Amniyomukiza+is%3Apr">reviewed</a></li>
        <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Amniyomukiza">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Amniyomukiza">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Amniyomukiza">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Amniyomukiza">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Amniyomukiza">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Amniyomukiza">discussions</a>
         <li><a href="https://github.com/lab-antwerp-1/mniyomukiza">private repo</a></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
-  <td><img src='./admin/avatars/students/MJGoharriz.jpeg' height="200px" width="200px" alt='MJGoharriz avatar' /></td>
-  <td> <h3 display="inline">Mohammadjavad Goharriz</h3>
-    <ul>
-       <li>about: <a href="./student-bios/MJGoharriz.md" target="_blank">bio</a>,      <a href="https://MJGoharriz.github.io">home page</a>, <a href="https://github.com/MJGoharriz">MJGoharriz</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3AMJGoharriz">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3AMJGoharriz+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3AMJGoharriz+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AMJGoharriz">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AMJGoharriz+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AMJGoharriz">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3AMJGoharriz">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3AMJGoharriz+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3AMJGoharriz">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3AMJGoharriz+is%3Apr">reviewed</a></li>
-       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3AMJGoharriz">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3AMJGoharriz">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3AMJGoharriz">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3AMJGoharriz">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3AMJGoharriz">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3AMJGoharriz">discussions</a>
-        <li><a href="https://github.com/lab-antwerp-1/MJGoharriz">private repo</a></li>
     </ul>
   </td>
 </tr></table> </li>
@@ -385,8 +361,8 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 </ul><br>
 
-[TOP](#home)
 
+[TOP](#home)
 <!-- END STUDENTS -->
 
 ---
