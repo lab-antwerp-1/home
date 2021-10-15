@@ -8,6 +8,7 @@
 > - [Discussions](https://github.com/lab-antwerp-1/home/discussions/)
 > - [Deliverables](https://github.com/lab-antwerp-1/home/projects/1)
 > - [Random Groups](https://lab-antwerp-1.github.io/home/randomizer)
+>
 > <details>
 > <summary>Rubber Ducky</summary>
 >

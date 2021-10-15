@@ -18,11 +18,13 @@
     "build": "npm run fetch && npm run render",
     "format": "prettier --write ./",
     "spell-check": "cspell './**'",
+    "lint:ls": "ls-lint",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ "
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@ls-lint/ls-lint": "^1.10.0",
     "cspell": "^5.9.0",
     "markdownlint-cli": "^0.28.1",
     "prettier": "^2.3.2"
