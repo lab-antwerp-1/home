@@ -97,7 +97,7 @@ in message history. Think of this repository as your class' forum and home page.
 
 <li><table> <tr>
   <td><img src='./admin/avatars/students/samedsay.jpeg' height="200px" width="200px" alt='samedsay avatar' /></td>
-  <td> <h3 display="inline">Abdulsamed SAY</h3>
+  <td> <h3 display="inline" id="samedsay">Abdulsamed SAY</h3>
     <ul>
        <li>about: <a href="./student-bios/samedsay.md" target="_blank">bio</a>,      <a href="https://samedsay.github.io">home page</a>, <a href="https://github.com/samedsay">samedsay</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Asamedsay">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Asamedsay+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Asamedsay+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Asamedsay">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Asamedsay+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Asamedsay">commented</a></li>
@@ -109,7 +109,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/Rphoof.jpeg' height="200px" width="200px" alt='Rphoof avatar' /></td>
-  <td> <h3 display="inline">Afruzul haq RUPAM</h3>
+  <td> <h3 display="inline" id="Rphoof">Afruzul haq RUPAM</h3>
     <ul>
        <li>about: <a href="./student-bios/Rphoof.md" target="_blank">bio</a>,      <a href="https://Rphoof.github.io">home page</a>, <a href="https://github.com/Rphoof">Rphoof</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3ARphoof">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3ARphoof+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3ARphoof+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3ARphoof">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3ARphoof+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3ARphoof">commented</a></li>
@@ -121,7 +121,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/Ahmed-nasserallah.jpeg' height="200px" width="200px" alt='Ahmed-nasserallah avatar' /></td>
-  <td> <h3 display="inline">Ahmed Nasserallah</h3>
+  <td> <h3 display="inline" id="Ahmed-nasserallah">Ahmed Nasserallah</h3>
     <ul>
        <li>about: <a href="./student-bios/Ahmed-nasserallah.md" target="_blank">bio</a>,      <a href="https://Ahmed-nasserallah.github.io">home page</a>, <a href="https://github.com/Ahmed-nasserallah">Ahmed-nasserallah</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3AAhmed-nasserallah">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3AAhmed-nasserallah+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3AAhmed-nasserallah+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AAhmed-nasserallah">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AAhmed-nasserallah+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AAhmed-nasserallah">commented</a></li>
@@ -133,7 +133,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/ashenafykebede.jpeg' height="200px" width="200px" alt='ashenafykebede avatar' /></td>
-  <td> <h3 display="inline">Ashenafi Weldie</h3>
+  <td> <h3 display="inline" id="ashenafykebede">Ashenafi Weldie</h3>
     <ul>
        <li>about: <a href="./student-bios/ashenafykebede.md" target="_blank">bio</a>,      <a href="https://ashenafykebede.github.io">home page</a>, <a href="https://github.com/ashenafykebede">ashenafykebede</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Aashenafykebede">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Aashenafykebede+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Aashenafykebede+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aashenafykebede">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Aashenafykebede+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Aashenafykebede">commented</a></li>
@@ -145,7 +145,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/aviv82.jpeg' height="200px" width="200px" alt='aviv82 avatar' /></td>
-  <td> <h3 display="inline">Aviv Dror</h3>
+  <td> <h3 display="inline" id="aviv82">Aviv Dror</h3>
     <ul>
        <li>about: <a href="./student-bios/aviv82.md" target="_blank">bio</a>,      <a href="https://aviv82.github.io">home page</a>, <a href="https://github.com/aviv82">aviv82</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Aaviv82">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Aaviv82+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Aaviv82+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aaviv82">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Aaviv82+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Aaviv82">commented</a></li>
@@ -157,7 +157,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/denrique-alvarez.jpeg' height="200px" width="200px" alt='denrique-alvarez avatar' /></td>
-  <td> <h3 display="inline">Daniel Álvarez</h3>
+  <td> <h3 display="inline" id="denrique-alvarez">Daniel Álvarez</h3>
     <ul>
        <li>about: <a href="./student-bios/denrique-alvarez.md" target="_blank">bio</a>,      <a href="https://denrique-alvarez.github.io">home page</a>, <a href="https://github.com/denrique-alvarez">denrique-alvarez</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Adenrique-alvarez">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Adenrique-alvarez+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Adenrique-alvarez+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Adenrique-alvarez">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Adenrique-alvarez+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Adenrique-alvarez">commented</a></li>
@@ -169,7 +169,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/Darin-Hamouda.jpeg' height="200px" width="200px" alt='Darin-Hamouda avatar' /></td>
-  <td> <h3 display="inline">Darin Hamouda</h3>
+  <td> <h3 display="inline" id="Darin-Hamouda">Darin Hamouda</h3>
     <ul>
        <li>about: <a href="./student-bios/Darin-Hamouda.md" target="_blank">bio</a>,      <a href="https://Darin-Hamouda.github.io">home page</a>, <a href="https://github.com/Darin-Hamouda">Darin-Hamouda</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3ADarin-Hamouda">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3ADarin-Hamouda+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3ADarin-Hamouda+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3ADarin-Hamouda">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3ADarin-Hamouda+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3ADarin-Hamouda">commented</a></li>
@@ -181,7 +181,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/edualfaro.jpeg' height="200px" width="200px" alt='edualfaro avatar' /></td>
-  <td> <h3 display="inline">Eduardo Alfaro Bautista</h3>
+  <td> <h3 display="inline" id="edualfaro">Eduardo Alfaro Bautista</h3>
     <ul>
        <li>about: <a href="./student-bios/edualfaro.md" target="_blank">bio</a>,      <a href="https://edualfaro.github.io">home page</a>, <a href="https://github.com/edualfaro">edualfaro</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Aedualfaro">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Aedualfaro+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Aedualfaro+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aedualfaro">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Aedualfaro+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Aedualfaro">commented</a></li>
@@ -193,7 +193,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/Levaii.jpeg' height="200px" width="200px" alt='Levaii avatar' /></td>
-  <td> <h3 display="inline">Khaled Saada</h3>
+  <td> <h3 display="inline" id="Levaii">Khaled Saada</h3>
     <ul>
        <li>about: <a href="./student-bios/Levaii.md" target="_blank">bio</a>,      <a href="https://Levaii.github.io">home page</a>, <a href="https://github.com/Levaii">Levaii</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3ALevaii">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3ALevaii+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3ALevaii+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3ALevaii">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3ALevaii+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3ALevaii">commented</a></li>
@@ -205,7 +205,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/krakla.jpeg' height="200px" width="200px" alt='krakla avatar' /></td>
-  <td> <h3 display="inline">Mahmoud Abu Azoum</h3>
+  <td> <h3 display="inline" id="krakla">Mahmoud Abu Azoum</h3>
     <ul>
        <li>about: <a href="./student-bios/krakla.md" target="_blank">bio</a>,      <a href="https://krakla.github.io">home page</a>, <a href="https://github.com/krakla">krakla</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Akrakla">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Akrakla+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Akrakla+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Akrakla">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Akrakla+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Akrakla">commented</a></li>
@@ -217,7 +217,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/mauricemat.jpeg' height="200px" width="200px" alt='mauricemat avatar' /></td>
-  <td> <h3 display="inline">Maurice Mateke</h3>
+  <td> <h3 display="inline" id="mauricemat">Maurice Mateke</h3>
     <ul>
        <li>about: <a href="./student-bios/mauricemat.md" target="_blank">bio</a>,      <a href="https://mauricemat.github.io">home page</a>, <a href="https://github.com/mauricemat">mauricemat</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Amauricemat">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Amauricemat+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Amauricemat+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Amauricemat">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Amauricemat+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Amauricemat">commented</a></li>
@@ -229,7 +229,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/Mervatabuamro.jpeg' height="200px" width="200px" alt='Mervatabuamro avatar' /></td>
-  <td> <h3 display="inline">Mervat Abuamro</h3>
+  <td> <h3 display="inline" id="Mervatabuamro">Mervat Abuamro</h3>
     <ul>
        <li>about: <a href="./student-bios/Mervatabuamro.md" target="_blank">bio</a>,      <a href="https://Mervatabuamro.github.io">home page</a>, <a href="https://github.com/Mervatabuamro">Mervatabuamro</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3AMervatabuamro">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3AMervatabuamro+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3AMervatabuamro+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AMervatabuamro">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AMervatabuamro+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AMervatabuamro">commented</a></li>
@@ -241,7 +241,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/mniyomukiza.jpeg' height="200px" width="200px" alt='mniyomukiza avatar' /></td>
-  <td> <h3 display="inline">Micky Niyomukiza</h3>
+  <td> <h3 display="inline" id="mniyomukiza">Micky Niyomukiza</h3>
     <ul>
        <li>about: <a href="./student-bios/mniyomukiza.md" target="_blank">bio</a>,      <a href="https://mniyomukiza.github.io">home page</a>, <a href="https://github.com/mniyomukiza">mniyomukiza</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Amniyomukiza">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Amniyomukiza+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Amniyomukiza+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Amniyomukiza">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Amniyomukiza+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Amniyomukiza">commented</a></li>
@@ -253,7 +253,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/mohammedlouzon.jpeg' height="200px" width="200px" alt='mohammedlouzon avatar' /></td>
-  <td> <h3 display="inline">Mohammed Luthon</h3>
+  <td> <h3 display="inline" id="mohammedlouzon">Mohammed Luthon</h3>
     <ul>
        <li>about: <a href="./student-bios/mohammedlouzon.md" target="_blank">bio</a>,      <a href="https://mohammedlouzon.github.io">home page</a>, <a href="https://github.com/mohammedlouzon">mohammedlouzon</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Amohammedlouzon">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Amohammedlouzon+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Amohammedlouzon+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Amohammedlouzon">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Amohammedlouzon+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Amohammedlouzon">commented</a></li>
@@ -265,7 +265,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/HansMbua.jpeg' height="200px" width="200px" alt='HansMbua avatar' /></td>
-  <td> <h3 display="inline">Muwa Mbua</h3>
+  <td> <h3 display="inline" id="HansMbua">Muwa Mbua</h3>
     <ul>
        <li>about: <a href="./student-bios/HansMbua.md" target="_blank">bio</a>,      <a href="https://HansMbua.github.io">home page</a>, <a href="https://github.com/HansMbua">HansMbua</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3AHansMbua">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3AHansMbua+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3AHansMbua+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AHansMbua">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AHansMbua+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AHansMbua">commented</a></li>
@@ -277,7 +277,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/Nefn-Lakhouj.jpeg' height="200px" width="200px" alt='Nefn-Lakhouj avatar' /></td>
-  <td> <h3 display="inline">Nefn Lakhouj</h3>
+  <td> <h3 display="inline" id="Nefn-Lakhouj">Nefn Lakhouj</h3>
     <ul>
        <li>about: <a href="./student-bios/Nefn-Lakhouj.md" target="_blank">bio</a>,      <a href="https://Nefn-Lakhouj.github.io">home page</a>, <a href="https://github.com/Nefn-Lakhouj">Nefn-Lakhouj</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3ANefn-Lakhouj">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3ANefn-Lakhouj+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3ANefn-Lakhouj+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3ANefn-Lakhouj">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3ANefn-Lakhouj+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3ANefn-Lakhouj">commented</a></li>
@@ -289,7 +289,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/omerjava.jpeg' height="200px" width="200px" alt='omerjava avatar' /></td>
-  <td> <h3 display="inline">Ömer Faruk Kala</h3>
+  <td> <h3 display="inline" id="omerjava">Ömer Faruk Kala</h3>
     <ul>
        <li>about: <a href="./student-bios/omerjava.md" target="_blank">bio</a>,      <a href="https://omerjava.github.io">home page</a>, <a href="https://github.com/omerjava">omerjava</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Aomerjava">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Aomerjava+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Aomerjava+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aomerjava">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Aomerjava+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Aomerjava">commented</a></li>
@@ -301,7 +301,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/sannesofie.jpeg' height="200px" width="200px" alt='sannesofie avatar' /></td>
-  <td> <h3 display="inline">Sanne Sofie Nielsen</h3>
+  <td> <h3 display="inline" id="sannesofie">Sanne Sofie Nielsen</h3>
     <ul>
        <li>about: <a href="./student-bios/sannesofie.md" target="_blank">bio</a>,      <a href="https://sannesofie.github.io">home page</a>, <a href="https://github.com/sannesofie">sannesofie</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Asannesofie">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Asannesofie+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Asannesofie+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Asannesofie">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Asannesofie+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Asannesofie">commented</a></li>
@@ -313,7 +313,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/tahminarasoli.jpeg' height="200px" width="200px" alt='tahminarasoli avatar' /></td>
-  <td> <h3 display="inline">Tahmina Rasoli</h3>
+  <td> <h3 display="inline" id="tahminarasoli">Tahmina Rasoli</h3>
     <ul>
        <li>about: <a href="./student-bios/tahminarasoli.md" target="_blank">bio</a>,      <a href="https://tahminarasoli.github.io">home page</a>, <a href="https://github.com/tahminarasoli">tahminarasoli</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Atahminarasoli">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Atahminarasoli+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Atahminarasoli+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Atahminarasoli">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Atahminarasoli+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Atahminarasoli">commented</a></li>
@@ -325,7 +325,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/AlinaTaoRao.jpeg' height="200px" width="200px" alt='AlinaTaoRao avatar' /></td>
-  <td> <h3 display="inline">Tao RAO</h3>
+  <td> <h3 display="inline" id="AlinaTaoRao">Tao RAO</h3>
     <ul>
        <li>about: <a href="./student-bios/AlinaTaoRao.md" target="_blank">bio</a>,      <a href="https://AlinaTaoRao.github.io">home page</a>, <a href="https://github.com/AlinaTaoRao">AlinaTaoRao</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3AAlinaTaoRao">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3AAlinaTaoRao+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3AAlinaTaoRao+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AAlinaTaoRao">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AAlinaTaoRao+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AAlinaTaoRao">commented</a></li>
@@ -337,7 +337,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/ZakariaSallout.jpeg' height="200px" width="200px" alt='ZakariaSallout avatar' /></td>
-  <td> <h3 display="inline">Zakaria Sallout</h3>
+  <td> <h3 display="inline" id="ZakariaSallout">Zakaria Sallout</h3>
     <ul>
        <li>about: <a href="./student-bios/ZakariaSallout.md" target="_blank">bio</a>,      <a href="https://ZakariaSallout.github.io">home page</a>, <a href="https://github.com/ZakariaSallout">ZakariaSallout</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3AZakariaSallout">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3AZakariaSallout+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3AZakariaSallout+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AZakariaSallout">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AZakariaSallout+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AZakariaSallout">commented</a></li>
@@ -349,7 +349,7 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 <li><table> <tr>
   <td><img src='./admin/avatars/students/NajiSarah.jpeg' height="200px" width="200px" alt='NajiSarah avatar' /></td>
-  <td> <h3 display="inline">sarah Naji</h3>
+  <td> <h3 display="inline" id="NajiSarah">sarah Naji</h3>
     <ul>
        <li>about: <a href="./student-bios/NajiSarah.md" target="_blank">bio</a>,      <a href="https://NajiSarah.github.io">home page</a>, <a href="https://github.com/NajiSarah">NajiSarah</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3ANajiSarah">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3ANajiSarah+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3ANajiSarah+label%3Aroll-call">roll-calls</a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3ANajiSarah">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3ANajiSarah+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3ANajiSarah">commented</a></li>
@@ -361,8 +361,8 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 </ul><br>
 
-
 [TOP](#home)
+
 <!-- END STUDENTS -->
 
 ---
