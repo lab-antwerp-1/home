@@ -14,5 +14,3 @@
      text is not recognized. Syntax errors are also thrown when you have opened a command, but then do not close it.
 
 ### [Source and for more](https://trothman.com/ACES/javascript/Jsvocab.htm)
-
-© 2021 GitHub, Inc.
