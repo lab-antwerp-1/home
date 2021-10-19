@@ -1,6 +1,10 @@
 {
   "language": "en",
-  "words": [],
+  "words": [
+    "Alina",
+    "Gump",
+    "zumba"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
