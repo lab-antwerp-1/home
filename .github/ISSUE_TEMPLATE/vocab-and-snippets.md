@@ -16,6 +16,7 @@ title: "Vocabulary or Snippets: description"
 
 ## Content Checklist
 
+- [ ] This contribution is related to the module's objectives.
 - [ ] I have looked through the current repo and open PRs
   - [ ] I am not duplicating an existing file
   - [ ] I am not duplicating another person's PR
