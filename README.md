@@ -120,18 +120,6 @@ in message history. Think of this repository as your class' forum and home page.
   </td>
 </tr></table> </li>
 <li><table> <tr>
-  <td><img src='./admin/avatars/students/Ahmed-nasserallah.jpeg' height="200px" width="200px" alt='Ahmed-nasserallah avatar' /></td>
-  <td> <h3 display="inline" id="Ahmed-nasserallah">Ahmed Nasserallah</h3>
-    <ul>
-       <li>about: <a href="./student-bios/Ahmed-nasserallah.md" target="_blank">bio</a>,      <a href="https://Ahmed-nasserallah.github.io">home page</a>, <a href="https://github.com/Ahmed-nasserallah">Ahmed-nasserallah</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3AAhmed-nasserallah">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3AAhmed-nasserallah+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3AAhmed-nasserallah+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AAhmed-nasserallah">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AAhmed-nasserallah+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AAhmed-nasserallah">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3AAhmed-nasserallah">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3AAhmed-nasserallah+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3AAhmed-nasserallah">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3AAhmed-nasserallah+is%3Apr">reviewed</a></li>
-       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3AAhmed-nasserallah">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3AAhmed-nasserallah">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3AAhmed-nasserallah">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3AAhmed-nasserallah">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3AAhmed-nasserallah">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3AAhmed-nasserallah">discussions</a>
-        <li><a href="https://github.com/lab-antwerp-1/Ahmed-nasserallah">private repo</a></li>
-    </ul>
-  </td>
-</tr></table> </li>
-<li><table> <tr>
   <td><img src='./admin/avatars/students/ashenafykebede.jpeg' height="200px" width="200px" alt='ashenafykebede avatar' /></td>
   <td> <h3 display="inline" id="ashenafykebede">Ashenafi Weldie</h3>
     <ul>
@@ -361,8 +349,8 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table> </li>
 </ul><br>
 
-[TOP](#home)
 
+[TOP](#home)
 <!-- END STUDENTS -->
 
 ---
@@ -372,10 +360,80 @@ in message history. Think of this repository as your class' forum and home page.
 <!-- BEGIN COACHES -->
   <ul  style="list-style-type:none;">
 
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/otagi.jpeg' height="150px" width="150px" alt='Tiago' /></td>
+  <td> <h3 display="inline">Tiago</h3>
+    <ul>
+<li>about: <a href="https://www.mendes-costa.net/">home page</a></li>
+        <li>github: <a href="https://github.com/otagi" >otagi</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aotagi" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Aotagi" >assigned</a></li>
+<li><code>workflows</code></li>
+<li><code>agile-development</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/bermarte.jpeg' height="150px" width="150px" alt='Bernardo Martelli' /></td>
+  <td> <h3 display="inline">Bernardo Martelli</h3>
+    <ul>
+        <li>github: <a href="https://github.com/bermarte" >bermarte</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Abermarte" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Abermarte" >assigned</a></li>
+<li><code>workflows</code></li>
+<li><code>agile-development</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/yoshimalaise.jpeg' height="150px" width="150px" alt='Yoshi' /></td>
+  <td> <h3 display="inline">Yoshi</h3>
+    <ul>
+        <li>github: <a href="https://github.com/yoshimalaise" >yoshimalaise</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Ayoshimalaise" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Ayoshimalaise" >assigned</a></li>
+<li><code>workflows</code></li>
+<li><code>agile-development</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/talmurshidi.jpeg' height="150px" width="150px" alt='Tamar' /></td>
+  <td> <h3 display="inline">Tamar</h3>
+    <ul>
+<li>about: <a href="https://www.linkedin.com/in/talmurhsidi">home page</a></li>
+        <li>github: <a href="https://github.com/talmurshidi" >talmurshidi</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Atalmurshidi" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Atalmurshidi" >assigned</a></li>
+<li><code>workflows</code></li>
+<li><code>agile-development</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/samirm00.jpeg' height="150px" width="150px" alt='Samir' /></td>
+  <td> <h3 display="inline">Samir</h3>
+    <ul>
+        <li>github: <a href="https://github.com/samirm00" >samirm00</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Asamirm00" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Asamirm00" >assigned</a></li>
+<li><code>workflows</code></li>
+<li><code>agile-development</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/mametur.jpeg' height="150px" width="150px" alt='Mamé Azad' /></td>
+  <td> <h3 display="inline">Mamé Azad</h3>
+    <ul>
+        <li>github: <a href="https://github.com/mametur" >mametur</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Amametur" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Amametur" >assigned</a></li>
+<li><code>workflows</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/unmeshvrije.jpeg' height="150px" width="150px" alt='unmesh' /></td>
+  <td> <h3 display="inline">unmesh</h3>
+    <ul>
+        <li>github: <a href="https://github.com/unmeshvrije" >unmeshvrije</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aunmeshvrije" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Aunmeshvrije" >assigned</a></li>
+<li><code>workflows</code></li>    </ul>
+  </td>
+</tr></table></li>
 </ul><br>
 
-[TOP](#home)
 
+[TOP](#home)
 <!-- END COACHES -->
 
 ---

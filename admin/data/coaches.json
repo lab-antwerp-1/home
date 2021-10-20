@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "name": "Tiago",
+    "userName": "otagi",
+    "homePage": "https://www.mendes-costa.net/",
+    "modules": ["workflows", "agile-development"]
+  },
+  {
+    "name": "Bernardo Martelli",
+    "userName": "bermarte",
+    "homePage": "",
+    "modules": ["workflows", "agile-development"]
+  },
+  {
+    "name": "Yoshi",
+    "userName": "yoshimalaise",
+    "homePage": "",
+    "modules": ["workflows", "agile-development"]
+  },
+  {
+    "name": "Tamar",
+    "userName": "talmurshidi",
+    "homePage": "https://www.linkedin.com/in/talmurhsidi",
+    "modules": ["workflows", "agile-development"]
+  },
+  {
+    "name": "Samir",
+    "userName": "samirm00",
+    "homePage": "",
+    "modules": ["workflows", "agile-development"]
+  },
+  {
+    "name": "Mamé Azad",
+    "userName": "mametur",
+    "homePage": "",
+    "modules": ["workflows"]
+  },
+  {
+    "name": "unmesh",
+    "userName": "unmeshvrije",
+    "homePage": "",
+    "modules": ["workflows"]
+  }
+]
