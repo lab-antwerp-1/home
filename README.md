@@ -366,7 +366,9 @@ in message history. Think of this repository as your class' forum and home page.
     <ul>
 <li>about: <a href="https://www.mendes-costa.net/">home page</a></li>
         <li>github: <a href="https://github.com/otagi" >otagi</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aotagi" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Aotagi" >assigned</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aotagi">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Aotagi+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Aotagi">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Aotagi">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Aotagi+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Aotagi">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Aotagi+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Aotagi">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Aotagi">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Aotagi">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Aotagi">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Aotagi">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Aotagi">discussions</a>
 <li><code>workflows</code></li>
 <li><code>agile-development</code></li>    </ul>
   </td>
@@ -376,7 +378,9 @@ in message history. Think of this repository as your class' forum and home page.
   <td> <h3 display="inline">Bernardo Martelli</h3>
     <ul>
         <li>github: <a href="https://github.com/bermarte" >bermarte</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Abermarte" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Abermarte" >assigned</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Abermarte">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Abermarte+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Abermarte">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Abermarte">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Abermarte+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Abermarte">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Abermarte+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Abermarte">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Abermarte">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Abermarte">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Abermarte">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Abermarte">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Abermarte">discussions</a>
 <li><code>workflows</code></li>
 <li><code>agile-development</code></li>    </ul>
   </td>
@@ -386,7 +390,9 @@ in message history. Think of this repository as your class' forum and home page.
   <td> <h3 display="inline">Yoshi</h3>
     <ul>
         <li>github: <a href="https://github.com/yoshimalaise" >yoshimalaise</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Ayoshimalaise" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Ayoshimalaise" >assigned</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Ayoshimalaise">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Ayoshimalaise+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Ayoshimalaise">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Ayoshimalaise">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Ayoshimalaise+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Ayoshimalaise">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Ayoshimalaise+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Ayoshimalaise">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Ayoshimalaise">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Ayoshimalaise">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Ayoshimalaise">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Ayoshimalaise">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Ayoshimalaise">discussions</a>
 <li><code>workflows</code></li>
 <li><code>agile-development</code></li>    </ul>
   </td>
@@ -397,7 +403,9 @@ in message history. Think of this repository as your class' forum and home page.
     <ul>
 <li>about: <a href="https://www.linkedin.com/in/talmurhsidi">home page</a></li>
         <li>github: <a href="https://github.com/talmurshidi" >talmurshidi</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Atalmurshidi" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Atalmurshidi" >assigned</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Atalmurshidi">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Atalmurshidi+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Atalmurshidi">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Atalmurshidi">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Atalmurshidi+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Atalmurshidi">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Atalmurshidi+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Atalmurshidi">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Atalmurshidi">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Atalmurshidi">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Atalmurshidi">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Atalmurshidi">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Atalmurshidi">discussions</a>
 <li><code>workflows</code></li>
 <li><code>agile-development</code></li>    </ul>
   </td>
@@ -407,7 +415,9 @@ in message history. Think of this repository as your class' forum and home page.
   <td> <h3 display="inline">Samir</h3>
     <ul>
         <li>github: <a href="https://github.com/samirm00" >samirm00</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Asamirm00" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Asamirm00" >assigned</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Asamirm00">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Asamirm00+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Asamirm00">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Asamirm00">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Asamirm00+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Asamirm00">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Asamirm00+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Asamirm00">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Asamirm00">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Asamirm00">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Asamirm00">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Asamirm00">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Asamirm00">discussions</a>
 <li><code>workflows</code></li>
 <li><code>agile-development</code></li>    </ul>
   </td>
@@ -417,7 +427,9 @@ in message history. Think of this repository as your class' forum and home page.
   <td> <h3 display="inline">Mamé Azad</h3>
     <ul>
         <li>github: <a href="https://github.com/mametur" >mametur</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Amametur" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Amametur" >assigned</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Amametur">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Amametur+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Amametur">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Amametur">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Amametur+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Amametur">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Amametur+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Amametur">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Amametur">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Amametur">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Amametur">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Amametur">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Amametur">discussions</a>
 <li><code>workflows</code></li>    </ul>
   </td>
 </tr></table></li>
@@ -426,7 +438,9 @@ in message history. Think of this repository as your class' forum and home page.
   <td> <h3 display="inline">unmesh</h3>
     <ul>
         <li>github: <a href="https://github.com/unmeshvrije" >unmeshvrije</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aunmeshvrije" >authored</a>, <a href="https://github.com/undefined/home/issues?q=assignee%3Aunmeshvrije" >assigned</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aunmeshvrije">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Aunmeshvrije+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Aunmeshvrije">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Aunmeshvrije">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Aunmeshvrije+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Aunmeshvrije">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Aunmeshvrije+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Aunmeshvrije">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Aunmeshvrije">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Aunmeshvrije">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Aunmeshvrije">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Aunmeshvrije">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Aunmeshvrije">discussions</a>
 <li><code>workflows</code></li>    </ul>
   </td>
 </tr></table></li>

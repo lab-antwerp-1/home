@@ -3,6 +3,7 @@
 const renderStudent = (student, mainData) => {
   const orgURL = `https://github.com/${mainData.orgName}`;
   const repoURL = `${orgURL}/${mainData.repoName}`;
+
   const studentProfile =
     `<table> <tr>\n` +
     `  <td><img src='./admin/avatars/students/${student.userName}.jpeg' height="200px" width="200px" alt='${student.userName} avatar' /></td>\n` +
