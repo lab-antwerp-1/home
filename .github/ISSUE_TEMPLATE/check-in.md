@@ -22,13 +22,11 @@ labels: check-in
 ## Study Plan
 
 <!-- create a study plan for yourself in this module -->
-<!-- you can start your list by making checklist from the module's suggested study -->
-<!--  one check-box per topic is enough, no need to list each link -->
-<!--  check off a topic when you are confident applying the concept in your projects -->
+<!-- you can start your list by making checklist from the module's learning objectives -->
+<!--  check off an objective when you are confident applying the concept in your projects -->
 <!-- but don't stop there!  this is your study plan, make it work for you -->
 
 <!--  ---------------------------------------
-
 
   copy this template into a new comment each week and fill in your answers
   each week add a new `week-x` label when your check-in comment is ready for review
