@@ -21,3 +21,4 @@ A responsive web design will automatically adjust for different screen sizes and
 ### Font Awesome Icon Reference Cheatsheet
 
 [Font Awesome Icon Reference Cheatsheet](https://fontawesome.com/v5/cheatsheet) Font Awesome is a font and icon toolkit based on CSS and Less. As of 2020, Font Awesome was used by 38% of sites that use third-party font scripts, placing Font Awesome in second place after Google
+***
