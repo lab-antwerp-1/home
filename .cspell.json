@@ -1,11 +1,9 @@
 {
   "language": "en",
   "words": [
-<<<<<<< HEAD
     "Alina",
     "Gump",
     "zumba"
-=======
     "Abdulsamed",
     "Abuamro",
     "Afruzul",
@@ -65,7 +63,6 @@
     "tahminarasoli",
     "Weldie",
     "Zakaria"
->>>>>>> origin/alina-bio
   ],
   "ignorePaths": [
     "node_modules/**",
