@@ -31,6 +31,8 @@ websites at full-view and allow users to zoom into the layout by pinching.
 This HTML snippet set the view on all screens at a 1×1 aspect ratio and remove the
 ```
 
+[Source](https://catswhocode.com/html-snippets/)
+
 ## Snippet 2
 
 <!--
