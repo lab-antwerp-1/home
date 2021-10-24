@@ -10,10 +10,12 @@
 
 - code:
 
-` @font-face {
-font-family: eu;
-src: url(/assets/euphorigenic.ttf);
-}`
+```css 
+@font-face {
+  font-family: eu;
+  src: url(/assets/euphorigenic.ttf);
+}
+```
 
 - comments:
 
@@ -28,14 +30,16 @@ src: url(/assets/euphorigenic.ttf);
 
 - code: 
 
-`:root {
---header-font-family: eu;
---paragraph-font: something to decide;
---wine-light-color: #f3e2e3;
---wine-mid1-color: #8a5658;
---wine-mid2-color: #a04048;
---wine-dark-color: #582327;
-}`
+```css
+:root {
+  --header-font-family: eu;
+  --paragraph-font: something to decide;
+  --wine-light-color: #f3e2e3;
+  --wine-mid1-color: #8a5658;
+  --wine-mid2-color: #a04048;
+  --wine-dark-color: #582327;
+}
+```
 
 - comments:
 
