@@ -15,7 +15,7 @@ const header = `
   mainData.repoName
 }/issues): [\`help-wanted\`](https://github.com/${mainData.orgName}/${
   mainData.repoName
-}/issues?q=is%3Aopen+label%3Ahelp%20wanted), [\`question\`](https://github.com/${
+}/issues?q=is%3Aopen+label%3Ahelp-wanted), [\`question\`](https://github.com/${
   mainData.orgName
 }/${mainData.repoName}/issues?q=is%3Aopen+label%3Aquestion)
 > - [Discussions](https://github.com/${mainData.orgName}/${
