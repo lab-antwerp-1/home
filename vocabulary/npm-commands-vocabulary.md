@@ -34,4 +34,12 @@
 
 ![npm run spell-check](https://raw.githubusercontent.com/lab-antwerp-1/home/main/vocabulary/pix/npmspellcheck.gif)
 
+### validating
+
+`npm run validate:html file-name.html`
+
+> this command assures that an .html file (or multiple files) are valid.
+
+![npm run validate:html](https://raw.githubusercontent.com/lab-antwerp-1/home/update-npm-commands/vocabulary/pix/npm-validate.gif)
+
 for more [information](https://www.youtube.com/watch?v=P3aKRdUyr0s)
