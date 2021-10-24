@@ -1,3 +1,7 @@
+# global snippets
+
+>set general parameters or values for the page  
+
 ## @font-face
 
 ### description:
@@ -14,8 +18,8 @@ src: url(/assets/euphorigenic.ttf);
 should appear at top of document
 
 
-
 ## :root
+
 ### description:
  sets general values for the entire .css document:
 
