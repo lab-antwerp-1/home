@@ -1,16 +1,16 @@
 # global snippets
 
->set general parameters or values for the page  
+> set general parameters or values for the page
 
 ## @font-face
 
 - description:
 
->adds new fonts and font families
+> adds new fonts and font families
 
 - code:
 
-```css 
+```css
 @font-face {
   font-family: eu;
   src: url(/assets/euphorigenic.ttf);
@@ -19,16 +19,15 @@
 
 - comments:
 
->should appear at top of document
-
+> should appear at top of document
 
 ## :root
 
 - description:
 
- >sets general values for the entire .css document:
+> sets general values for the entire .css document:
 
-- code: 
+- code:
 
 ```css
 :root {
@@ -43,4 +42,4 @@
 
 - comments:
 
->should appear at top of document
+> should appear at top of document

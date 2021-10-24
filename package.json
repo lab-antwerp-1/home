@@ -18,8 +18,9 @@
     "build": "npm run fetch && npm run render",
     "format": "prettier --write ./",
     "spell-check": "cspell  \"./**\"",
-    "lint:css": "stylelint --fix \"./**/**.css\""
+    "lint:css": "stylelint --fix \"./**/**.css\"",
     "lint:ls": "ls-lint",
+    "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ "
 
   },
   "author": "",
