@@ -4,26 +4,29 @@
 
 ## @font-face
 
-### description:
-adds new fonts and font families
+- description:
 
-### code:
+>adds new fonts and font families
+
+- code:
 
 ` @font-face {
 font-family: eu;
 src: url(/assets/euphorigenic.ttf);
 }`
 
-### comments:
-should appear at top of document
+- comments:
+
+>should appear at top of document
 
 
 ## :root
 
-### description:
- sets general values for the entire .css document:
+- description:
 
-### code: 
+ >sets general values for the entire .css document:
+
+- code: 
 
 `:root {
 --header-font-family: eu;
@@ -34,5 +37,6 @@ should appear at top of document
 --wine-dark-color: #582327;
 }`
 
-### comments:
-should appear at top of document
+- comments:
+
+>should appear at top of document
