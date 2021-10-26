@@ -1,6 +1,4 @@
 <!-- BEGIN HEADER -->
-# Action
-
 
 <!-- END HEADER -->
 
@@ -11,16 +9,21 @@ workflows, ... to do everything!
 Slack is great for chatting but links and good explanations can easily get lost
 in message history. Think of this repository as your class' forum and home page.
 
-- [Action](#action)
-  - [Modules](#modules)
-  - [Students](#students)
-  - [Coaches](#coaches)
-  - [Using this Repo](#using-this-repo)
-    - [Help Wanted](#help-wanted)
-    - [Question](#question)
-    - [Check-Ins](#check-ins)
-    - [Deliverable](#deliverable)
-    - [Roll-Calls](#roll-calls)
+<!-- BEGIN TOC -->
+
+<!-- END TOC -->
+
+---
+
+## Class Calendar
+
+<details>
+<summary>expand/collapse</summary>
+<br>
+
+![Lesson Plan Calendar](./assets/lesson-plan-calendar.png)
+
+</details>
 
 ---
 
@@ -41,8 +44,6 @@ in message history. Think of this repository as your class' forum and home page.
 ---
 
 ## Coaches
-
-<!-- BEGIN COACHES -->
 
 <!-- END COACHES -->
 
