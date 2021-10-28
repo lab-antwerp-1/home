@@ -1,4 +1,4 @@
-# Hi, everyone. :smile: :wave:
+# Hi, everyone. :smile: :wave
 
 :sunny: I'm Alina Rao.  
 :earth_asia: I come form China.  
