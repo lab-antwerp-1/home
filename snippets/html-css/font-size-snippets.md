@@ -5,7 +5,7 @@
 ### CSS
 
 ```css
-/*sm for small; md for medium; lg for large; xl for extra large  */
+/*sm for small; .md for medium; .lg for large; .xl for extra large.*/
 .sm {
   font-size: 1rem;
 }
