@@ -24,7 +24,10 @@ broken down into four main components of a software stack: the server, the
 database, the operating system, and the software.
 
 ## Backlog
- A backlog is a list of user stories organized by priority (must-have, should-have, could-have), these stories describe the user's experience as they navigate your website.  
+
+A backlog is a list of user stories organized by priority (must-have,
+should-have, could-have), these stories describe the user's experience as they
+navigate your website.  
 [What is a Backlog](https://www.productplan.com/glossary/backlog/)
 
 ## Browser
