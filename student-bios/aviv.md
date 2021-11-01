@@ -3,7 +3,7 @@
 my name is _aviv._ i am 39 years ~~old~~ from **israel/canada**.
 
 ```html
-<h3>nice to meet you!</h3>
+<h3>very nice to meet you!</h3>
 ;
 ```
 
