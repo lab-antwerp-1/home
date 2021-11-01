@@ -2,6 +2,8 @@
 
 <!-- END HEADER -->
 
+# this repo
+
 This repository is yours to keep track of what you've covered so far, to get to
 know each other, to share helpful resources, to practice collaboration
 workflows, ... to do everything!
