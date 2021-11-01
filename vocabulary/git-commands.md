@@ -75,7 +75,7 @@ individual files:
 
 Or all files:
 
-- git add
+- git add .
 
 ## git branch
 
