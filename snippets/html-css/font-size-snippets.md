@@ -28,4 +28,4 @@
 
 ### HTML
 
-`<h2 class="md text-center my-2">Supported Languages</h2>`
+`<h2 class="md">Supported Languages</h2>`
