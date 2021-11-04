@@ -40,5 +40,11 @@
     "userName": "unmeshvrije",
     "homePage": "",
     "modules": ["workflows"]
+  },
+  {
+    "name": "miroslav",
+    "userName": "miroslavveljanoski",
+    "homePage": "",
+    "modules": ["Agile-Development"]
   }
 ]

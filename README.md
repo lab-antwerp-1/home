@@ -444,10 +444,21 @@ in message history. Think of this repository as your class' forum and home page.
 <li><code>workflows</code></li>    </ul>
   </td>
 </tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/miroslavveljanoski.jpeg' height="150px" width="150px" alt='miroslav' /></td>
+  <td> <h3 display="inline">miroslav</h3>
+    <ul>
+        <li>github: <a href="https://github.com/miroslavveljanoski" >miroslavveljanoski</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Amiroslavveljanoski">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Amiroslavveljanoski+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Amiroslavveljanoski">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Amiroslavveljanoski">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Amiroslavveljanoski+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Amiroslavveljanoski">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Amiroslavveljanoski+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Amiroslavveljanoski">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Amiroslavveljanoski">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Amiroslavveljanoski">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Amiroslavveljanoski">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Amiroslavveljanoski">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Amiroslavveljanoski">discussions</a>
+<li><code>Agile-Development</code></li>    </ul>
+  </td>
+</tr></table></li>
 </ul><br>
 
-[TOP](#home)
 
+[TOP](#home)
 <!-- END COACHES -->
 
 ---
