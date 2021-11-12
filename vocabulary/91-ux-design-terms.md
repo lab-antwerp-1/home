@@ -383,7 +383,7 @@ Used in early stages of a product, user scenarios are mini stories that describe
 
 User Stories share actions different kinds of users can take in a product. The formula for user stories is simple:
 
-“As a <insert kind of user>, I want <insert feature or action>, to be able to <insert desired outcome>.”
+“As a `insert kind of user`, I want `insert feature or action`, to be able to `insert desired outcome`.”
 
 ## Waterfall
 
