@@ -46,5 +46,35 @@
     "userName": "miroslavveljanoski",
     "homePage": "",
     "modules": ["Agile-Development"]
+  },
+  {
+    "name": "Maud Van Miert",
+    "userName": "mvmiert",
+    "homePage": "",
+    "modules": [
+      "UX/UI Design,Behavior Strategy & Implementation,Separation of concerns,final-project"
+    ]
+  },
+  {
+    "name": "Arno Chauveau",
+    "userName": "arnochauveau",
+    "homePage": "",
+    "modules": [
+      "UX/UI Design,Welcome to JS,Architecture,Asynchronous Programming,final-project"
+    ]
+  },
+  {
+    "name": "Lorenzo De Bie",
+    "userName": "LorenzoDeBie",
+    "homePage": "",
+    "modules": ["Welcome to JS,Cloud-based backends"]
+  },
+  {
+    "name": "Thibaut Humblet",
+    "userName": "ThibautHumblet",
+    "homePage": "",
+    "modules": [
+      "UX/UI Design,Welcome to JS,Behavior Strategy & Implementation,final-project"
+    ]
   }
 ]
