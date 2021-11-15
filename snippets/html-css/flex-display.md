@@ -9,6 +9,7 @@
 ## html
 
 ````html
+
 <div class="container">
   <div class="child1">
     <h1>HEADLINE</h1>
@@ -20,8 +21,8 @@
     <img src="www.source.com" alt="image" />
   </div>
 </div>
-```
 ````
+
 
 ## css
 
@@ -79,9 +80,12 @@ order: 1;
 
 > this command will reorder the children classes so that child1 is in the
 > center, child2 is last and child3 is first
+=======
+```
 
 ### learn more
 
 - [css flex commands](https://www.youtube.com/watch?v=k32voqQhODc&list=WL&index=16)
 
 - [more commands](https://www.youtube.com/watch?v=-Wlt8NRtOpo&list=WL&index=14&t=1351s)
+
