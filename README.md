@@ -489,7 +489,6 @@ in message history. Think of this repository as your class' forum and home page.
 </tr></table></li>
 </ul><br>
 
-
 [TOP](#home)
 <!-- END COACHES -->
 

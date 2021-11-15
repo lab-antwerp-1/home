@@ -2,11 +2,12 @@
 
 ## overview
 
->flex is a collection of commands and paremeters in css. 
+>flex is a collection of commands and paremeters in css.
 >flex helps us arrange child properties within a parent property.
->flex is easy to apply and highly adaptable to responsive design 
+>flex is easy to apply and highly adaptable to responsive design
 
 ## html
+
 ```html
 <div class="container">
   <div class="child1">
@@ -21,6 +22,7 @@
 </div>```
 
 ```
+
 ## css
 
 ```css
@@ -42,10 +44,10 @@ flex: 1;
 }```
 
 ```
+
 ## result
 
 >this command will make all three children fill equal space within the parent container
 >the snippet above is one example of the may ways we can use flex display to design our pages
-
 
 ### [Learn More](https://www.youtube.com/watch?v=k32voqQhODc&list=WL&index=16)
