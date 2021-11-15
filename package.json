@@ -1,5 +1,5 @@
 {
-  "name": "lab-antwerp-1",
+  "name": "home",
   "version": "1.0.0",
   "description": "home repo for Lab Antwerp class 1",
   "scripts": {
@@ -17,12 +17,15 @@
     "render": "npm run render-modules && npm run render-students && npm run render-coaches && npm run render-header && npm run render-toc",
     "build": "npm run fetch && npm run render",
     "format": "prettier --write ./",
-    "spell-check": "cspell './**'",
+    "spell-check": "cspell  \"./**\"",
+    "lint:css": "stylelint --fix \"./**/**.css\"",
+    "lint:ls": "ls-lint",
     "lint:md": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ "
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "@ls-lint/ls-lint": "^1.10.0",
     "cspell": "^5.9.0",
     "markdownlint-cli": "^0.28.1",
     "prettier": "^2.3.2"

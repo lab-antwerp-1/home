@@ -1,7 +1,4 @@
-<!-- BEGIN HEADER -->
-# Action
-
-<!-- END HEADER -->
+# About Repository
 
 This repository is yours to keep track of what you've covered so far, to get to
 know each other, to share helpful resources, to practice collaboration
@@ -10,19 +7,21 @@ workflows, ... to do everything!
 Slack is great for chatting but links and good explanations can easily get lost
 in message history. Think of this repository as your class' forum and home page.
 
-- [Modules](#modules)
-- [Students](#students)
-- [Coaches](#coaches)
-- Class Notes
-  - [Vocabulary](./vocabulary)
-  - [Snippets](./snippets)
-  - [Chill Zone](./chill-zone)
-- HYF Links
-  - [Student Guidebook](https://home.hackyourfuture.be/students)
-  - [Curriculum](https://home.hackyourfuture.be/curriculum)
-  - [Study Book](https://hackyourfuture.github.io/study)
-  - [GitHub](https://github.com/hackyourfuturebelgium)
-- [Using this Repo](#using-this-repo)
+<!-- BEGIN TOC -->
+
+<!-- END TOC -->
+
+---
+
+## Class Calendar
+
+<details>
+<summary>expand/collapse</summary>
+<br>
+
+![Lesson Plan Calendar](./assets/lesson-plan-calendar.png)
+
+</details>
 
 ---
 
@@ -43,8 +42,6 @@ in message history. Think of this repository as your class' forum and home page.
 ---
 
 ## Coaches
-
-<!-- BEGIN COACHES -->
 
 <!-- END COACHES -->
 

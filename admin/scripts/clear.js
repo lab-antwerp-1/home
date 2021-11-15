@@ -56,6 +56,24 @@ rl.question[promisify.custom] = (question) => {
     console.error(err);
   }
 
+  console.log("... clearing old snippets");
+  try {
+    const snippetsPath = path.join(__dirname, "..", "..", "snippets");
+    fs.rmdirSync(snippetsPath, { recursive: true });
+    fs.mkdirSync(snippetsPath);
+  } catch (err) {
+    console.error(err);
+  }
+
+  console.log("... clearing old vocabulary");
+  try {
+    const vocabPath = path.join(__dirname, "..", "..", "vocabulary");
+    fs.rmdirSync(vocabPath, { recursive: true });
+    fs.mkdirSync(vocabPath);
+  } catch (err) {
+    console.error(err);
+  }
+
   // clear out previous students and coaches
   //  does not clear out modules or index.json
   console.log("... clearing old coaches.json");
