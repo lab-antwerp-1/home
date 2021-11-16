@@ -51,7 +51,7 @@ naming conventions:
 - File extensions should show which language they are written in (except for
   english which is the default)
 - Files cannot be translated until there is an english version, so that everyone
-  can share this study
+  can share this study guide
 
 What does this look like?
 
