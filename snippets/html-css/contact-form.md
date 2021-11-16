@@ -1,6 +1,6 @@
 # Contact form
 
-`HTML`
+```HTML
 
        <div class="container">
        <form action="action_page.php">
@@ -26,9 +26,11 @@
   </form>
 </div>
 
-`CSS`
+
+```CSS
 
 /*Style inputs with type="text", select elements and textareas*/
+
 input[type=text], select, textarea {
   width: 100%; /*Full width*/
   padding: 12px; /*Some padding*/  
@@ -41,6 +43,7 @@ input[type=text], select, textarea {
 }
 
 /*Style the submit button with a specific background color etc*/
+
 input[type=submit] {
   background-color: #04AA6D;
   color: white;
@@ -51,13 +54,16 @@ input[type=submit] {
 }
 
 /*When moving the mouse over the submit button, add a darker green color*/
+
 input[type=submit]:hover {
   background-color: #45a049;
 }
 
 /*Add a background color and some padding around the form*/
+
 .container {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
 }
+```
