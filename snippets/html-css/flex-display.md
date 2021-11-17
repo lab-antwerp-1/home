@@ -2,9 +2,9 @@
 
 ## overview
 
->flex is a collection of commands and paremeters in css.
->flex helps us arrange child properties within a parent property.
->flex is easy to apply and highly adaptable to responsive design
+> flex is a collection of commands and parameters in css. flex helps us arrange
+> child properties within a parent property. flex is easy to apply and highly
+> adaptable to responsive design
 
 ## html
 
@@ -17,15 +17,16 @@
     <p>lorem ipsum</p>
   </div>
   <div class="child3">
-    <img src="www.source.com" alt="image">
+    <img src="www.source.com" alt="image" />
   </div>
-</div>```
-
+</div>
 ```
 
 ## css
 
-```css
+### divide space in flex box
+
+````css
 .container {
 max-width: 1440px;
 display:flex;
@@ -43,11 +44,43 @@ flex: 1;
 flex: 1;
 }```
 
-```
+````
 
-## result
+- result
 
->this command will make all three children fill equal space within the parent container
->the snippet above is one example of the may ways we can use flex display to design our pages
+> this command will make all three children fill equal space within the parent
+> container the snippet above is one example of the may ways we can use flex
+> display to design our pages
 
-### [Learn More](https://www.youtube.com/watch?v=k32voqQhODc&list=WL&index=16)
+### order children in flex box
+
+````css
+.container {
+max-width: 1440px;
+display:flex;
+}
+
+.child1 {
+order: 2;
+}
+
+.child2 {
+order: 3;
+}
+
+.child3 {
+order: 1;
+}```
+
+````
+
+- result
+
+> this command will reorder the children classes so that child1 is in the
+> center, child2 is last and child3 is first
+
+### learn more
+
+- [css flex commands](https://www.youtube.com/watch?v=k32voqQhODc&list=WL&index=16)
+
+- [more commands](https://www.youtube.com/watch?v=-Wlt8NRtOpo&list=WL&index=14&t=1351s)
