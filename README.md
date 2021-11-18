@@ -338,6 +338,7 @@ in message history. Think of this repository as your class' forum and home page.
 </ul><br>
 
 [TOP](#home)
+
 <!-- END STUDENTS -->
 
 ---
@@ -489,6 +490,7 @@ in message history. Think of this repository as your class' forum and home page.
 </ul><br>
 
 [TOP](#home)
+
 <!-- END COACHES -->
 
 ---
