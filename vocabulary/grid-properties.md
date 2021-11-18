@@ -27,7 +27,7 @@
   grid-template: none|grid-template-rows / grid-template-columns|grid-template-areas|initial|inherit;
   ```
 
-  <!-- This grid layout has three columns, and the first row is 150px high: -->
+    <!-- This grid layout has three columns, and the first row is 150px high: -->
 
   ```css
   .grid-container {
@@ -35,3 +35,5 @@
     grid-template: 150px / auto auto auto;
   }
   ```
+
+  <!-- [reference:A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/#grid-properties) -->
