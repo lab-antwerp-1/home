@@ -24,6 +24,7 @@ broken down into four main components of a software stack: the server, the
 database, the operating system, and the software.
 
 <!-- Agile deliverables -->
+
 ## Backlog
 
 A backlog is a list of user stories organized by priority (must-have,

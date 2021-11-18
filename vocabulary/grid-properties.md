@@ -23,7 +23,7 @@
 
   - CSS Syntax
 
-  ```
+  ```css
   grid-template: none|grid-template-rows / grid-template-columns|grid-template-areas|initial|inherit;
   ```
 
