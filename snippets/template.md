@@ -7,29 +7,31 @@
 
 # Behavior (what are you trying to do?)
 
-<!--
-  what does this snippet do?  how does it work in a program?
--->
+Define Viewport for Responsive Websites
 
 ## Use Cases
 
-<!--
-  when would you use this snippet in real life?
-  this could be examples, bullet points, links to projects that use it, ...
--->
+The following HTML snippet should be inserted into the head section of your
+document.
+
+When creating a responsive website, setting the viewport is a must. The
+following HTML snippet should be inserted into the head section of your
+document.
 
 ## Snippet 1
 
-<!--
-  one way of implementing this behavior
-  explain a little how this code works and why it's written the way it is
-  what adjustments might someone need to make if they want to use it?
-  any good links to help understand this snippet?
--->
+This HTML snippet set the view on all screens at a 1×1 aspect ratio and remove
+the default functionality from iPhones and other mobile devices which render
+websites at full-view and allow users to zoom into the layout by pinching.
 
 ```language_name
-
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="HandheldFriendly" content="true">
+This HTML snippet set the view on all screens at a 1×1 aspect ratio and remove the
 ```
+
+[Source](https://catswhocode.com/html-snippets/)
 
 ## Snippet 2
 
