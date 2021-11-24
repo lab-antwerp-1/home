@@ -1,9 +1,6 @@
 {
   "language": "en",
   "words": [
-    "Alina",
-    "Gump",
-    "zumba",
     "Abdulsamed",
     "Abuamro",
     "Afruzul",
@@ -18,11 +15,14 @@
     "blockquote",
     "dawit",
     "denrique",
+    "dropbtn",
     "Dror",
     "edualfaro",
     "Faruk",
     "Goharriz",
+    "Gump",
     "Hamouda",
+    "Hoverable",
     "Kala",
     "Kebede",
     "Khaled",
@@ -50,6 +50,7 @@
     "omerjava",
     "precourse",
     "Rasoli",
+    "rgba",
     "Rphoof",
     "RUPAM",
     "Saada",
@@ -62,7 +63,8 @@
     "Tahmina",
     "tahminarasoli",
     "Weldie",
-    "Zakaria"
+    "Zakaria",
+    "zumba"
   ],
   "ignorePaths": [
     "node_modules/**",
