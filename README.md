@@ -33,8 +33,10 @@ in message history. Think of this repository as your class' forum and home page.
 - [Students](#students)
 - [Coaches](#coaches)
 - Class Notes
-  - [Vocabulary](./vocabulary) (_[PRs](https://github.com/lab-antwerp-1/home/pulls?q=label%3Avocabulary)_)
-  - [Snippets](./snippets) (_[PRs](https://github.com/lab-antwerp-1/home/pulls?q=label%3Asnippets)_)
+  - [Vocabulary](./vocabulary)
+    (_[PRs](https://github.com/lab-antwerp-1/home/pulls?q=label%3Avocabulary)_)
+  - [Snippets](./snippets)
+    (_[PRs](https://github.com/lab-antwerp-1/home/pulls?q=label%3Asnippets)_)
   - [Chill Zone](./chill-zone)
 - HYF Links
   - [Student Guidebook](https://home.hackyourfuture.be/students)
