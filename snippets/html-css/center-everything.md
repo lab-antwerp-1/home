@@ -33,8 +33,8 @@
       height: 200px;
       }
 
-You can use first 4 lines of CSS code to centralize your DIV vertically and horizontally.
-This is very useful especially when you make a web application and want your application
-to appear totally centralized in the middle of page.
+You can use first 4 lines of CSS code to centralize your DIV vertically and
+horizontally. This is very useful especially when you make a web application and
+want your application to appear totally centralized in the middle of page.
 
 [The result](https://center-everything.glitch.me)
