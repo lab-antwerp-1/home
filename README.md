@@ -337,26 +337,6 @@ locally.
     </table> </li>
 <li><table>
       <tr>
-        <h3 display="inline" id="mohammedlouzon">Mohammed Luthon</h3>
-        <details>
-        <summary>GitHub Stats</summary>
-          <img src="https://ghchart.rshah.org/mohammedlouzon" alt="Mohammed Luthon github activity" />
-          <img src="https://github-readme-stats.vercel.app/api?username=mohammedlouzon&show_icons=true&theme=default&hide_title=true&hide_rank=true alt="mohammedlouzon github stats" />
-        </details>
-      </tr>  <tr>
-    <td><img src='./admin/avatars/students/mohammedlouzon.jpeg' height="200px" width="200px" alt='mohammedlouzon avatar' /></td>
-  <td>     <ul>
-       <li>about: <a href="./student-bios/mohammedlouzon.md" target="_blank">bio</a>,      <a href="https://mohammedlouzon.github.io">home page</a>, <a href="https://github.com/mohammedlouzon">mohammedlouzon</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Amohammedlouzon">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Amohammedlouzon+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Amohammedlouzon+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Amohammedlouzon">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Amohammedlouzon+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Amohammedlouzon">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Amohammedlouzon">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Amohammedlouzon+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Amohammedlouzon">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Amohammedlouzon+is%3Apr">reviewed</a></li>
-       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Amohammedlouzon">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Amohammedlouzon">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Amohammedlouzon">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Amohammedlouzon">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Amohammedlouzon">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Amohammedlouzon">discussions</a>
-        <li><a href="https://github.com/lab-antwerp-1/mohammedlouzon">private repo</a></li>
-    </ul>
-  </td>
-</tr>
-    </table> </li>
-<li><table>
-      <tr>
         <h3 display="inline" id="HansMbua">Muwa Mbua</h3>
         <details>
         <summary>GitHub Stats</summary>
@@ -477,26 +457,6 @@ locally.
     </table> </li>
 <li><table>
       <tr>
-        <h3 display="inline" id="ZakariaSallout">Zakaria Sallout</h3>
-        <details>
-        <summary>GitHub Stats</summary>
-          <img src="https://ghchart.rshah.org/ZakariaSallout" alt="Zakaria Sallout github activity" />
-          <img src="https://github-readme-stats.vercel.app/api?username=ZakariaSallout&show_icons=true&theme=default&hide_title=true&hide_rank=true alt="ZakariaSallout github stats" />
-        </details>
-      </tr>  <tr>
-    <td><img src='./admin/avatars/students/ZakariaSallout.jpeg' height="200px" width="200px" alt='ZakariaSallout avatar' /></td>
-  <td>     <ul>
-       <li>about: <a href="./student-bios/ZakariaSallout.md" target="_blank">bio</a>,      <a href="https://ZakariaSallout.github.io">home page</a>, <a href="https://github.com/ZakariaSallout">ZakariaSallout</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3AZakariaSallout">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3AZakariaSallout+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3AZakariaSallout+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AZakariaSallout">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AZakariaSallout+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AZakariaSallout">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3AZakariaSallout">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3AZakariaSallout+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3AZakariaSallout">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3AZakariaSallout+is%3Apr">reviewed</a></li>
-       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3AZakariaSallout">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3AZakariaSallout">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3AZakariaSallout">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3AZakariaSallout">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3AZakariaSallout">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3AZakariaSallout">discussions</a>
-        <li><a href="https://github.com/lab-antwerp-1/ZakariaSallout">private repo</a></li>
-    </ul>
-  </td>
-</tr>
-    </table> </li>
-<li><table>
-      <tr>
         <h3 display="inline" id="NajiSarah">sarah Naji</h3>
         <details>
         <summary>GitHub Stats</summary>
@@ -519,7 +479,6 @@ locally.
 
 
 [TOP](#home)
-
 <!-- END STUDENTS -->
 
 ---
