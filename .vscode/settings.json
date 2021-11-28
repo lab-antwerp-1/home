@@ -3,5 +3,12 @@
   "editor.renderIndentGuides": true,
   "editor.tabSize": 2,
   "files.autoSave": "onFocusChange",
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "cSpell.words": [
+    "Anders",
+    "Centro",
+    "comercial",
+    "Futterkiste",
+    "Moctezuma"
+  ]
 }
