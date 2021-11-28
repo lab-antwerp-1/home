@@ -1,6 +1,6 @@
 # Vocabulary
 
-# Fork & Regenerate
+Fork & Regenerate
 
 **Fork**: Most of people use fork to get other's projects on their accounts
 which it takes a copy of an entire project with branches, commits and history
