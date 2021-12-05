@@ -217,26 +217,6 @@ locally.
     </table> </li>
 <li><table>
       <tr>
-        <h3 display="inline" id="edualfaro">Eduardo Alfaro Bautista</h3>
-        <details>
-        <summary>GitHub Stats</summary>
-          <img src="https://ghchart.rshah.org/edualfaro" alt="Eduardo Alfaro Bautista github activity" />
-          <img src="https://github-readme-stats.vercel.app/api?username=edualfaro&show_icons=true&theme=default&hide_title=true&hide_rank=true alt="edualfaro github stats" />
-        </details>
-      </tr>  <tr>
-    <td><img src='./admin/avatars/students/edualfaro.jpeg' height="200px" width="200px" alt='edualfaro avatar' /></td>
-  <td>     <ul>
-       <li>about: <a href="./student-bios/edualfaro.md" target="_blank">bio</a>,      <a href="https://edualfaro.github.io">home page</a>, <a href="https://github.com/edualfaro">edualfaro</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3Aedualfaro">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3Aedualfaro+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3Aedualfaro+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aedualfaro">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Aedualfaro+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Aedualfaro">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Aedualfaro">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Aedualfaro+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Aedualfaro">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Aedualfaro+is%3Apr">reviewed</a></li>
-       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Aedualfaro">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Aedualfaro">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Aedualfaro">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Aedualfaro">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Aedualfaro">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Aedualfaro">discussions</a>
-        <li><a href="https://github.com/lab-antwerp-1/edualfaro">private repo</a></li>
-    </ul>
-  </td>
-</tr>
-    </table> </li>
-<li><table>
-      <tr>
         <h3 display="inline" id="krakla">Mahmoud Abu Azoum</h3>
         <details>
         <summary>GitHub Stats</summary>
