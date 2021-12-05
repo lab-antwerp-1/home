@@ -237,26 +237,6 @@ locally.
     </table> </li>
 <li><table>
       <tr>
-        <h3 display="inline" id="Levaii">Khaled Saada</h3>
-        <details>
-        <summary>GitHub Stats</summary>
-          <img src="https://ghchart.rshah.org/Levaii" alt="Khaled Saada github activity" />
-          <img src="https://github-readme-stats.vercel.app/api?username=Levaii&show_icons=true&theme=default&hide_title=true&hide_rank=true alt="Levaii github stats" />
-        </details>
-      </tr>  <tr>
-    <td><img src='./admin/avatars/students/Levaii.jpeg' height="200px" width="200px" alt='Levaii avatar' /></td>
-  <td>     <ul>
-       <li>about: <a href="./student-bios/Levaii.md" target="_blank">bio</a>,      <a href="https://Levaii.github.io">home page</a>, <a href="https://github.com/Levaii">Levaii</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3ALevaii">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3ALevaii+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3ALevaii+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3ALevaii">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3ALevaii+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3ALevaii">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3ALevaii">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3ALevaii+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3ALevaii">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3ALevaii+is%3Apr">reviewed</a></li>
-       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3ALevaii">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3ALevaii">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3ALevaii">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3ALevaii">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3ALevaii">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3ALevaii">discussions</a>
-        <li><a href="https://github.com/lab-antwerp-1/Levaii">private repo</a></li>
-    </ul>
-  </td>
-</tr>
-    </table> </li>
-<li><table>
-      <tr>
         <h3 display="inline" id="krakla">Mahmoud Abu Azoum</h3>
         <details>
         <summary>GitHub Stats</summary>
