@@ -1,0 +1,12 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "npm",
+      "script": "lint:md",
+      "problemMatcher": ["$go"],
+      "label": "npm: lint:md",
+      "detail": "markdownlint --ignore node_modules --config ./.markdownlint.jsonc --fix ./ "
+    }
+  ]
+}

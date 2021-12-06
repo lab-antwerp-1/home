@@ -3,10 +3,22 @@
 const renderStudent = (student, mainData) => {
   const orgURL = `https://github.com/${mainData.orgName}`;
   const repoURL = `${orgURL}/${mainData.repoName}`;
+
   const studentProfile =
-    `<table> <tr>\n` +
-    `  <td><img src='./admin/avatars/students/${student.userName}.jpeg' height="200px" width="200px" alt='${student.userName} avatar' /></td>\n` +
-    `  <td> <h3 display="inline">${student.name}</h3>\n` +
+    `<table>` +
+    `
+      <tr>
+        <h3 display="inline" id="${student.userName}">${student.name}</h3>
+        <details>
+        <summary>GitHub Stats</summary>
+          <img src="https://ghchart.rshah.org/${student.userName}" alt="${student.name} github activity" />
+          <img src="https://github-readme-stats.vercel.app/api?username=${student.userName}&show_icons=true&theme=default&hide_title=true&hide_rank=true alt="${student.userName} github stats" />
+        </details>
+      </tr>` +
+    `  <tr>
+    <td><img src='./admin/avatars/students/${student.userName}.jpeg' height="200px" width="200px" alt='${student.userName} avatar' /></td>\n` +
+    `  <td> ` +
+    // <h3 display="inline" id="${student.userName}">${student.name}</h3>\n` +
     `    <ul>\n` +
     `       <li>about: <a href="./student-bios/${student.userName}.md" target="_blank">bio</a>,` +
     (typeof student.homePage === "string"
@@ -27,12 +39,13 @@ const renderStudent = (student, mainData) => {
     }+label%3Aroll-call">roll-calls</a></li>\n` +
     `        <li>issues: <a href="${repoURL}/issues?q=author%3A${student.userName}">opened</a>, <a href="${repoURL}/issues?q=assignee%3A${student.userName}+is%3Aissue">assigned</a>, <a href="${repoURL}/issues?q=commenter%3A${student.userName}">commented</a></li>\n` +
     `        <li>PRs: <a href="${repoURL}/pulls?q=author%3A${student.userName}">opened</a>, <a href="${repoURL}/pulls?q=assignee%3A${student.userName}+is%3Apr">assigned</a>, <a href="${repoURL}/pulls?q=commenter%3A${student.userName}">commented</a>, <a href="${repoURL}/pulls?q=reviewed-by%3A${student.userName}+is%3Apr">reviewed</a></li>\n` +
-    `       <li>discussions: <a href="${repoURL}/discussions?discussions_q=author%3A${student.userName}">opened</a>, <a href="${repoURL}/discussions?discussions_q=includes%3A${student.userName}">included</a></li>` +
+    `       <li>discussions: <a href="${repoURL}/discussions?discussions_q=author%3A${student.userName}">opened</a>, <a href="${repoURL}/discussions?discussions_q=commenter%3A${student.userName}">commented</a>, <a href="${repoURL}/discussions?discussions_q=includes%3A${student.userName}">included</a></li>` +
     `       <li>mentions: <a href="${repoURL}/issues?q=mentions%3A${student.userName}">issues</a>, <a href="${repoURL}/pulls?q=mentions%3A${student.userName}">PRs</a>, <a href="${repoURL}/discussions?discussions_q=mentions%3A${student.userName}">discussions</a>\n` +
     `        <li><a href="${orgURL}/${student.userName}">private repo</a></li>\n` +
     `    </ul>\n` +
     `  </td>\n` +
-    `</tr></table> `;
+    `</tr>
+    </table> `;
 
   return studentProfile;
 };

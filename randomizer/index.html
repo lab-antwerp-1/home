@@ -3,16 +3,22 @@
   <head>
     <meta charset="utf-8" />
     <link rel="icon" href="data:;base64,iVBORw0KGgo=" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
     <title></title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
   </head>
 
   <body>
     <div id="user-interface">
-      <h2 id="header"></h2>
-      <p id="number-of-students"></p>
-      <form id="active-students"></form>
       <form id="randomizer-form">
+        <h2 id="header"></h2>
+        <p id="number-of-students"></p>
         <input
           type="radio"
           name="sortType"
@@ -30,8 +36,8 @@
         <input type="number" value="0" name="number" min="0" />
         <input type="button" name="generate" value="generate" />
         <input type="button" name="download" value="download" />
+        <input type="button" name="clipboard" value="Copy MD to clipboard" />
       </form>
-      <hr />
       <div id="groups"></div>
     </div>
 
@@ -153,25 +159,21 @@
        * renders a groups array into a list of names linking to github accounts
        */
       const renderGroups = (groups) =>
-        `<div>` +
-        `  ${groups
-          .map(
-            (group, index) =>
-              `<div>` +
-              `  <h3>Group ${index + 1}</h3>` +
-              `  <ul>` +
-              `    ${group
-                .map((student) =>
-                  student.userName
-                    ? `<li><a href="https://github.com/${student.userName}" target="_blank">${student.name}</a></li>`
-                    : `<li>${student.name}</li>`
-                )
-                .reduce((all, next) => all + next, "")}` +
-              `  </ul>` +
-              `<div>`
-          )
-          .join("")}` +
-        `</div>`;
+        groups.map((group, index) => renderGroup(group, index)).join("");
+
+      const renderGroup = (group, index) => `
+      <div class="group">
+        <h3>Group ${index + 1}</h3>
+        <ul>
+          ${group.map((student) => renderStudent(student)).join("")}
+        </ul>
+      </div>
+    `;
+
+      const renderStudent = (student) =>
+        student.userName
+          ? `<li><a href="https://github.com/${student.userName}" target="_blank">${student.name}</a></li>`
+          : `<li>${student.name}</li>`;
     </script>
 
     <script id="procedures">
@@ -218,6 +220,26 @@
         groups = newGroups;
 
         setParams(groups, sortType, numberOf);
+      };
+
+      /**
+       * Copies the groups as Markdown to the clipboard.
+       */
+      const copyGroups = (event) => {
+        const target = event.target;
+        if (target.name !== "clipboard") {
+          return;
+        }
+
+        const textToCopy = groups
+          .map(
+            (group, index) =>
+              `## Group ${index}\n${group
+                .map((member) => `- ${member.name}\n`)
+                .join("")}\n\n`
+          )
+          .join("");
+        navigator.clipboard.writeText(textToCopy);
       };
 
       /**
@@ -321,6 +343,7 @@
           const generateGroups = randomizeHandler(groupsEl);
           form.addEventListener("click", generateGroups);
           form.addEventListener("click", downloadGroups);
+          form.addEventListener("click", copyGroups);
 
           // -- initialize groups --
 

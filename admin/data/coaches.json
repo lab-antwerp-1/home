@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "name": "Tiago",
+    "userName": "otagi",
+    "homePage": "https://www.mendes-costa.net/",
+    "modules": ["workflows", "agile-development"]
+  },
+  {
+    "name": "Bernardo Martelli",
+    "userName": "bermarte",
+    "homePage": "",
+    "modules": ["workflows", "agile-development"]
+  },
+  {
+    "name": "Yoshi",
+    "userName": "yoshimalaise",
+    "homePage": "",
+    "modules": ["workflows", "agile-development"]
+  },
+  {
+    "name": "Tamar",
+    "userName": "talmurshidi",
+    "homePage": "https://www.linkedin.com/in/talmurhsidi",
+    "modules": ["workflows", "agile-development"]
+  },
+  {
+    "name": "Samir",
+    "userName": "samirm00",
+    "homePage": "",
+    "modules": ["workflows", "agile-development"]
+  },
+  {
+    "name": "Mamé Azad",
+    "userName": "mametur",
+    "homePage": "",
+    "modules": ["workflows"]
+  },
+  {
+    "name": "unmesh",
+    "userName": "unmeshvrije",
+    "homePage": "",
+    "modules": ["workflows"]
+  },
+  {
+    "name": "miroslav",
+    "userName": "miroslavveljanoski",
+    "homePage": "",
+    "modules": ["Agile-Development"]
+  },
+  {
+    "name": "Maud Van Miert",
+    "userName": "mvmiert",
+    "homePage": "",
+    "modules": [
+      "UX/UI Design,Behavior Strategy & Implementation,Separation of concerns,final-project"
+    ]
+  },
+  {
+    "name": "Arno Chauveau",
+    "userName": "arnochauveau",
+    "homePage": "",
+    "modules": [
+      "UX/UI Design,Welcome to JS,Architecture,Asynchronous Programming,final-project"
+    ]
+  },
+  {
+    "name": "Lorenzo De Bie",
+    "userName": "LorenzoDeBie",
+    "homePage": "",
+    "modules": ["Welcome to JS,Cloud-based backends"]
+  },
+  {
+    "name": "Thibaut Humblet",
+    "userName": "ThibautHumblet",
+    "homePage": "",
+    "modules": [
+      "UX/UI Design,Welcome to JS,Behavior Strategy & Implementation,final-project"
+    ]
+  }
+]
