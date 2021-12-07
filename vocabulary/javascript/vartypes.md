@@ -27,7 +27,7 @@
 ### let
 
 > let was introduced in 2015 with the 6th edition of ESMAScript (ES6 for short).
-> unlike var it is object scoped and therefore prefered by developers today
+> unlike var it is block scoped and therefore prefered by developers today
 
 ### const
 
