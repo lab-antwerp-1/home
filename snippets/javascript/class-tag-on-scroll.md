@@ -17,18 +17,20 @@
 
 window.addEventListener("scroll", show);
 
-/* ^ EventListener is the name of the property. - show-  will be the name
-of the second tag */
+/* ^ AddEventListener is the name of the function. it contains two - parameters -
+an - event - which we named scroll and a -function - a thing that will happen 
+when the event is triggered the  - show - class name */
 
 function show() {
   let show = document.querySelectorAll(".hide");
 
-  /* ^ hide is the name of the original
-  tag. we add this in the html after the class name. example -
-  class="container hide"*/
+  /* ^ hide is a class name that will be added to the classes in html 
+  after the class itself. example - class="container hide"
+  the class name can be used to get to the element itself */
 
   for (let i = 0; i < hide.length; i++) {
     // ^ here we assign a variable - i - and set a condition for its value
+    // it will loop until the condition becomes true
 
     let windowheight = window.innerHeight;
 
@@ -54,9 +56,9 @@ the element's size and position on screen */
       element(which we assigned the - hide - tag to) passes a point in
       the window height that is equal to the amount of pixels from the
       bottom we specified subtracted from the overall window height,
-      then something will happen, that thing being the class tag change
-      from - hide- to - show -. now we can assign animations
-      or transformations for the new - show - tag in the css */
+      then something will happen, that thing being the class name 
+      - show - will be added to the classes with the - hide - class name
+      now we can assign new properties for the - show - tag in css */
     } else {
       hide[i].classList.remove("show");
       /* ^ this last little bit completes the condition, stating that
