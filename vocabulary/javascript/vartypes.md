@@ -21,13 +21,13 @@
 
 ### var
 
-> var is the og keyword for creating a variable. because of its limitations it
-> is not used as often these days but is still common in 'legacy' (older) code
+> var is the og keyword for creating a variable. because it is function scoped
+> it is not used as often these days but still common in 'legacy' (older) code
 
 ### let
 
 > let was introduced in 2015 with the 6th edition of ESMAScript (ES6 for short).
-> it is a more versatile keyword than var and is used by developers today
+> unlike var it is object scoped and therefore prefered by developers today
 
 ### const
 
