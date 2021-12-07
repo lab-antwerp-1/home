@@ -10,11 +10,11 @@ if (isMailSent) {
 }
 ```
 
-<!-->An if statement accepts an expression with a set of parentheses:
+An if statement accepts an expression with a set of parentheses:
 
 If the expression evaluates to a truthy value, then the code within its code
 body executes. If the expression evaluates to a falsy value, its code body will
-not execute.<!-->
+not execute.
 
 ## Else Statement
 
@@ -28,7 +28,7 @@ if (isTaskCompleted) {
 }
 ```
 
-<!-->An else block can be added to an if block or series of if-else if blocks. The else block will be executed only if the if condition fails.<!-->
+An else block can be added to an if block or series of if-else if blocks. The else block will be executed only if the if condition fails.
 
 ## Else if Statement
 
@@ -44,7 +44,6 @@ if (size > 100) {
 } else {
   console.log("Tiny");
 }
-// Print: Small//
 ```
 
-<!-->After an initial if block, else if blocks can each check an additional condition. An optional else block can be added after the else if block(s) to run by default if none of the conditionals evaluated to truthy.<!-->
+After an initial if block, else if blocks can each check an additional condition. An optional else block can be added after the else if block(s) to run by default if none of the conditionals evaluated to truthy.
