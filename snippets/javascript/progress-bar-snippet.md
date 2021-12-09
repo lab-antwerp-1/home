@@ -1,5 +1,9 @@
 # A progress bar snippet with JavasScript and HTML
 
+ ``` html
+     <!-- html code here -->
+  ```
+
 ```html
 <!DOCTYPE html>
     <html>
@@ -17,7 +21,9 @@
     </body>
     </html>
 ```
-
+  ``` js
+     // JS code here
+  ```
 ```js
 let timeLeft = 100;
 let downloadTimer = setInterval(function() {
