@@ -1,8 +1,7 @@
 # A progress bar snippet with JavasScript and HTML
 
-## HTML code
-
-    <!DOCTYPE html>
+```html
+<!DOCTYPE html>
     <html>
     <head>
         <meta charset="utf-8" />
@@ -17,16 +16,17 @@
         <progress value="0" max="100" id="progressBar"></progress>
     </body>
     </html>
+```
 
-## JavaScript code
-
-    var timeLeft = 100;
-    var downloadTimer = setInterval(function() {
-        if (timeLeft <= 0) {
-        clearInterval(downloadTimer);
-        }
-        document.getElementById("progressBar").value = 100 - timeLeft;
-        timeLeft -= 1;
-    }, 100);
+```js
+let timeLeft = 100;
+let downloadTimer = setInterval(function() {
+    if (timeLeft <= 0) {
+      clearInterval(downloadTimer);
+    }
+    document.getElementById("progressBar").value = 100 - timeLeft;
+    timeLeft -= 1;
+}, 100);
+```
 
 [The result](https://progress-bar-js.glitch.me)
