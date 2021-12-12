@@ -30,9 +30,9 @@
      overflow: auto;
     }
 
-The resize property in CSS specifies if an element should be resizable by the user.
-You can resize your DIV vertically and horizontally with "resize:both;".
-You can resize your DIV vertically with "resize:vertical;".
-You can resize your DIV vertically with "resize:horizontal;".
+The resize property in CSS specifies if an element should be resizable by the
+user. You can resize your DIV vertically and horizontally with "resize:both;".
+You can resize your DIV vertically with "resize:vertical;". You can resize your
+DIV vertically with "resize:horizontal;".
 
 [The example](https://www.w3schools.com/css/tryit.asp?filename=trycss3_resize)
