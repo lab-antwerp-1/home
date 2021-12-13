@@ -24,6 +24,16 @@
 
      A Method is a command that tells how an object is to be acted upon.
 
+## Lint
+
+     Lint is a catchall phrase that describes formal blemishes in the code, as well as deviations from an
+     agreed upon 'standard' syntax. It is important to note that lint will not prevent your code from running.
+     It is an issue because lint will make your code difficult for other developers to read and understand.
+
+## Linting
+
+     Linting is the process of enforcing clean and uniform syntax and keeping code free of lint (see above).
+
 ## Object
 
      An Object is something that exists such as the HTML Document, the browser window, or the date and time. An object can also be something that you create through a function.
