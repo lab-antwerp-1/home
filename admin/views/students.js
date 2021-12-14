@@ -3,10 +3,22 @@
 const renderStudent = (student, mainData) => {
   const orgURL = `https://github.com/${mainData.orgName}`;
   const repoURL = `${orgURL}/${mainData.repoName}`;
+
   const studentProfile =
-    `<table> <tr>\n` +
-    `  <td><img src='./admin/avatars/students/${student.userName}.jpeg' height="200px" width="200px" alt='${student.userName} avatar' /></td>\n` +
-    `  <td> <h3 display="inline">${student.name}</h3>\n` +
+    `<table>` +
+    `
+      <tr>
+        <h3 display="inline" id="${student.userName}">${student.name}</h3>
+        <details>
+        <summary>GitHub Stats</summary>
+          <img src="https://ghchart.rshah.org/${student.userName}" alt="${student.name} github activity" />
+          <img src="https://github-readme-stats.vercel.app/api?username=${student.userName}&show_icons=true&theme=default&hide_title=true&hide_rank=true alt="${student.userName} github stats" />
+        </details>
+      </tr>` +
+    `  <tr>
+    <td><img src='./admin/avatars/students/${student.userName}.jpeg' height="200px" width="200px" alt='${student.userName} avatar' /></td>\n` +
+    `  <td> ` +
+    // <h3 display="inline" id="${student.userName}">${student.name}</h3>\n` +
     `    <ul>\n` +
     `       <li>about: <a href="./student-bios/${student.userName}.md" target="_blank">bio</a>,` +
     (typeof student.homePage === "string"
@@ -32,7 +44,8 @@ const renderStudent = (student, mainData) => {
     `        <li><a href="${orgURL}/${student.userName}">private repo</a></li>\n` +
     `    </ul>\n` +
     `  </td>\n` +
-    `</tr></table> `;
+    `</tr>
+    </table> `;
 
   return studentProfile;
 };

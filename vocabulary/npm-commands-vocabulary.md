@@ -21,10 +21,17 @@
 
 `npm run lint:md`
 
-> this command will scan your code for "lint", small mistakes such as wrong case
-> letters, spacing and deviations from the standard form.
+> this command will scan your mark down for "lint", small mistakes such as wrong
+> case letters, spacing and deviations from the standard form.
 
 ![npm run lint:md](https://raw.githubusercontent.com/lab-antwerp-1/home/main/vocabulary/pix/npmlintmd.gif)
+
+`npm run lint:css`
+
+> this command will scan your css code for "lint", small mistakes such as wrong
+> case letters, spacing and deviations from the standard form.
+
+![npm run lint:md](/vocabulary/pix/lintcss.gif)
 
 ### spellchecking
 
@@ -33,5 +40,13 @@
 > this command will check your code for spelling errors.
 
 ![npm run spell-check](https://raw.githubusercontent.com/lab-antwerp-1/home/main/vocabulary/pix/npmspellcheck.gif)
+
+### validating
+
+`npm run validate:html file-name.html`
+
+> this command assures that an .html file (or multiple files) are valid.
+
+![npm run validate:html](https://raw.githubusercontent.com/lab-antwerp-1/home/main/vocabulary/pix/npm-validate.gif)
 
 for more [information](https://www.youtube.com/watch?v=P3aKRdUyr0s)
