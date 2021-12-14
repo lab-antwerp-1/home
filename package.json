@@ -17,6 +17,7 @@
     "render": "npm run render-modules && npm run render-students && npm run render-coaches && npm run render-header && npm run render-toc",
     "build": "npm run fetch && npm run render",
     "format": "prettier --write ./",
+    "format-check": "prettier --check ./",
     "spell-check": "cspell  \"./**\"",
     "lint:css": "stylelint --fix \"./**/**.css\"",
     "lint:ls": "ls-lint",
