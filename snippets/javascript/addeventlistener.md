@@ -14,12 +14,12 @@
 
 ```html
 <!-- create button on page body. use id or class to name it -->
-<button type="submit" id="user__btn">Start</button>
+<button type="button" id="user__btn">Start</button>
 ```
 
 ```javascript
 // declare and assign variable for button. use querySelector, getElementById
-let userBtn = document.querySelector("#user__btn");
+const userBtn = document.querySelector("#user__btn");
 
 /* apply addEventListener to button variable. the event we are 'listening' for
 is a 'click' on the button. once the user clicks a function will be triggered */
