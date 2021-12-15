@@ -38,7 +38,7 @@
 
 ```CSS  
 /*--------------------------
-Save the CSS code in a separate file named as style.js
+Save the CSS code in a separate file named as style.css
 ------------------------------------------------------------*/
 
 /* Add a black background color to the top navigation */
