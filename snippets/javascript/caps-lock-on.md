@@ -12,7 +12,12 @@ is on.
 ## Suppose you have a password field like this
 
 ```html
-<input type="password" name="password" id="password" placeholder="Enter a password">
+<input
+  type="password"
+  name="password"
+  id="password"
+  placeholder="Enter a password"
+/>
 <div class="message"></div>
 ```
 
@@ -20,14 +25,13 @@ The following shows a warning message if you turn on the caps lock and type the
 password:
 
 ```js
-password.addEventListener('keyup', setCapsLockMessage);
+password.addEventListener("keyup", setCapsLockMessage);
 
-function setCapsLockMessage (event){
-    if (event.getModifierState('CapsLock')) {
-        message.textContent = 'Caps lock is on';
-    }
-    else {
-        message.textContent = '';
-    }
+function setCapsLockMessage(event) {
+  if (event.getModifierState("CapsLock")) {
+    message.textContent = "Caps lock is on";
+  } else {
+    message.textContent = "";
+  }
 }
 ```
