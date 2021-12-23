@@ -11,7 +11,7 @@ is on.
 
 ## Suppose you have a password field like this
 
-```js
+```html
 <input type="password" name="password" id="password" placeholder="Enter a password">
 <div class="message"></div>
 ```
