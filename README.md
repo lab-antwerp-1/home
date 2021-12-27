@@ -99,14 +99,7 @@ locally.
 <summary>expand/collapse</summary>
 <br>
 
-<iframe
-      src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%233F51B5&ctz=Europe%2FBrussels&showPrint=0&showTz=0&title=Lab%40%20Antwerp%20class%20Calander&showTabs=1&showTitle=1&src=Y19jbGFzc3Jvb21jNjU0ZWI2MkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457"
-      style="border-width: 0"
-      width="100%"
-      height="600"
-      frameborder="0"
-      scrolling="no"
-    ></iframe>
+![Lesson Plan Calendar](./assets/lesson-plan-calendar.png)
 
 </details>
 
