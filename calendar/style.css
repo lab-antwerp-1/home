@@ -1,0 +1,28 @@
+.card {
+  background: rgb(10, 22, 131);
+  border-radius: 2px;
+  height: 300px;
+  margin: 1rem;
+  position: relative;
+  width: 300px;
+}
+
+html {
+  block-size: 100%;
+  inline-size: 100%;
+  background: rgb(255, 254, 254);
+}
+iframe {
+  border-width: 0;
+  width: 100%;
+}
+.head {
+  font-size: 33px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
+  color: rgb(30, 12, 129);
+  text-align: center;
+  max-width: none;
+}
