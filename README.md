@@ -93,15 +93,7 @@ locally.
 
 ---
 
-## Class Calendar
-
-<details>
-<summary>expand/collapse</summary>
-<br>
-
-![Lesson Plan Calendar](./assets/lesson-plan-calendar.png)
-
-</details>
+## [Class Calendar](https://lab-antwerp-1.github.io/home/calendar/)
 
 ---
 
