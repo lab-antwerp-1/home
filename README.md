@@ -93,7 +93,7 @@ locally.
 
 ---
 
-## [Class Calendar](https://lab-antwerp-1.github.io/home/calendar/)
+### [Class Calendar](https://lab-antwerp-1.github.io/home/calendar/)
 
 ---
 
