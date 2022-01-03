@@ -1,7 +1,7 @@
 # Scope in JS
 
 Scope is the idea in programming that some variables are accessible/inaccessible
-from other parts of the program.
+from other parts of the program
 
 - **Blocks** are statements that exist within curly braces {}.
 - **Global scope** refers to the context within which variables are accessible
@@ -17,4 +17,4 @@ from other parts of the program.
 
 Remember to use best practices when declaring your variables. Scoping your
 variables tightly will ensure that your code has clean, organized, and modular
-logic.
+logic
