@@ -6,16 +6,28 @@ combined version, where each word is separated by a dollar sign `$`.
 For example, for the words "hello", "how", "are", "you", the output should be
 `"$hello$how$are$you$"`.
 
+<!--
+`Classes` are a template for creating `objects`. They encapsulate data with code to work on that data.
+
+This is an example of using a `class` to create `objects`. Make a text encryptor. It should take multiple words and output a combined version, where each word is separated by a dollar sign $. For example, for the words "hello", "how", "are", "you", the output should be "$hello$how$are$you$".
+-->
+
 ```js
 class Add {
   constructor(...words) {
     this.words = words;
   }
+  /* 
+  `Spread syntax (...)` allows an iterable such as an array expression or string to be expanded in places where zero or more arguments (for function calls) or elements (for array literals) are expected, or an object expression to be expanded in places where zero or more key-value pairs (for object literals) are expected.
+
+  The `constructor` method is a special method for creating and initializing an `object` created with a `class`.
+ */
   print() {
     let finalString = "";
     for (let index = 0; index < this.words.length; index++) {
       finalString += "$" + this.words[index];
     }
+    /* The JavaScript `this` keyword refers to the object it belongs to. Here, `this` refers to the `Add`.*/
     finalString += "$";
     console.log(finalString);
   }
