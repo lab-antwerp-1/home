@@ -1,4 +1,4 @@
-### use switch to change the state of a toggle button 
+## use switch to change the state of a toggle button 
 
 ## Suppose you have a Toggle Switch like this
 
