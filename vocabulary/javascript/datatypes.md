@@ -13,6 +13,7 @@ etc.) surrounded by single quotes: ' ... ' or double quotes " ... ". Though we
 prefer single quotes. Some people like to think of string as a fancy word for
 text.
 
+
 ## Boolean
 
 This data type only has two possible values— either true or false (without
