@@ -1,4 +1,4 @@
-# use switch to change the state of a toggle button 
+# use switch to change the state of a toggle button
 
 ## Suppose you have a Toggle Switch like this
 
@@ -6,34 +6,32 @@
 <h2>Toggle Switch</h2>
 
 <label class="switch">
-  <input type="checkbox">
+  <input type="checkbox" />
   <div class="slider"></div>
 </label>
 ```
 
-## js code to switch toggle to off or on 
-``` js
-document.addEventListener('DOMContentLoaded', function () {
+## js code to switch toggle to off or on
+
+```js
+document.addEventListener("DOMContentLoaded", function () {
   var checkbox = document.querySelector('input[type="checkbox"]');
 
-  checkbox.addEventListener('change', function () {
+  checkbox.addEventListener("change", function () {
     if (checkbox.checked) {
       // do this
-      console.log('Checked');
+      console.log("Checked");
     } else {
       // do that
-      console.log('Not checked');
+      console.log("Not checked");
     }
   });
 });
-
 ```
 
-## css 
+## css
 
-``` css
-
-
+```css
 .switch {
   position: relative;
   display: inline-block;
@@ -41,7 +39,9 @@ document.addEventListener('DOMContentLoaded', function () {
   height: 34px;
 }
 
-.switch input {display:none;}
+.switch input {
+  display: none;
+}
 
 .slider {
   position: absolute;
@@ -51,8 +51,8 @@ document.addEventListener('DOMContentLoaded', function () {
   right: 0;
   bottom: 0;
   background-color: #ccc;
-  -webkit-transition: .4s;
-  transition: .4s;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
 }
 
 .slider:before {
@@ -63,16 +63,16 @@ document.addEventListener('DOMContentLoaded', function () {
   left: 4px;
   bottom: 4px;
   background-color: white;
-  -webkit-transition: .4s;
-  transition: .4s;
+  -webkit-transition: 0.4s;
+  transition: 0.4s;
 }
 
 input:checked + .slider {
-  background-color: #2196F3;
+  background-color: #2196f3;
 }
 
 input:focus + .slider {
-  box-shadow: 0 0 1px #2196F3;
+  box-shadow: 0 0 1px #2196f3;
 }
 
 input:checked + .slider:before {
@@ -80,5 +80,4 @@ input:checked + .slider:before {
   -ms-transform: translateX(26px);
   transform: translateX(26px);
 }
-
 ```
