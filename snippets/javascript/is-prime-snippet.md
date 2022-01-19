@@ -2,9 +2,9 @@
 
 ```js
 /**
- * Given a number, the function will test whether this number is a prime number.
+ * Given an integer number, the function will test whether this number is a prime number.
  *
- * @param {number} num - The number which will be checked whether prime or not.
+ * @param {number} num - An integer number which will be checked whether prime or not.
  * @returns {boolean} - It will return true if the number is prime, otherwise false.
  */
 function isPrime(num) {
