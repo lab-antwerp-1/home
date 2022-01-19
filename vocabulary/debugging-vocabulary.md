@@ -6,13 +6,17 @@ Programming code might contain syntax errors, or logical errors.
 
 Many of these errors are difficult to diagnose.
 
-Often, when programming code contains errors, nothing will happen. There are no error messages, and you will get no indications where to search for errors.
+Often, when programming code contains errors, nothing will happen. 
+
+There are no error messages, and you will get no indications where to search for errors.
 
 Searching for (and fixing) errors in programming code is called code debugging.
 
 ## The console.log() Method
 
-Prints text to the console. Useful for debugging. You can use console.log() to display JavaScript values in the console.
+Prints text to the console. Useful for debugging. 
+
+You can use console.log() to display JavaScript values in the console.
 
 ## Setting Breakpoints
 
