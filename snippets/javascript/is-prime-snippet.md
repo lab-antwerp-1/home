@@ -1,4 +1,4 @@
-# A function to test whether a given is prime or not
+# A function to test whether a given number is prime or not
 
 ```js
 /**
