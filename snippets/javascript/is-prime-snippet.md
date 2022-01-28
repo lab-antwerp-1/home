@@ -8,16 +8,12 @@
  * @returns {boolean} - It will return true if the number is prime, otherwise false.
  */
 function isPrime(num) {
-  if (num <= 1) {
-    return false;
-  } else if (num === 2) {
-    return true;
-  } else {
+  if (num <= 1) return false;
+  else if (num === 2) return true;
+  else {
     let n = Math.sqrt(num);
     for (let i = 2; i < n + 1; i++) {
-      if (num % i === 0) {
-        return false;
-      }
+      if (num % i === 0) return false;
     }
   }
   return true;
