@@ -556,7 +556,7 @@ locally.
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AThibautHumblet">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AThibautHumblet+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AThibautHumblet">commented</a></li>
         <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3AThibautHumblet">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3AThibautHumblet+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3AThibautHumblet">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3AThibautHumblet+is%3Apr">reviewed</a></li>
        <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3AThibautHumblet">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3AThibautHumblet">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3AThibautHumblet">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3AThibautHumblet">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3AThibautHumblet">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3AThibautHumblet">discussions</a>
-<li><code>UX/UI Design,Welcome to JS,Behavior Strategy & Implementation,final-project</code></li>    </ul>
+<li><code>UX/UI Design,Welcome to JS,Behavior Strategy & Implementation,Separation of concerns,final-project</code></li>    </ul>
   </td>
 </tr></table></li>
 </ul><br>
