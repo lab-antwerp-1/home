@@ -76,5 +76,13 @@
     "modules": [
       "UX/UI Design,Welcome to JS,Behavior Strategy & Implementation,Separation of concerns,final-project"
     ]
+  },
+  {
+    "name": "Sander Maas",
+    "userName": "sandermaas",
+    "homePage": "",
+    "modules": [
+      "welcome-to-js", "behavior-strategy-implementation", "architecture", "asynchronous-programming", "final-project"
+    ]
   }
 ]
