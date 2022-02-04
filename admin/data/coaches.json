@@ -82,7 +82,7 @@
     "userName": "sandermaas",
     "homePage": "",
     "modules": [
-      "welcome-to-js", 
+      "welcome-to-js",
       "behavior-strategy-implementation",
       "architecture",
       "asynchronous-programming",
