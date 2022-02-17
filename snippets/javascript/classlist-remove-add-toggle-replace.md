@@ -70,6 +70,38 @@ intro.classlist.toggle("shrink"); // enlarge intro section
 }
 ```
 
+---
+
+## classlist methods that do not append classlist
+
+### length
+
+> `length()` method will not append classlist but will be qual to the number of
+> classes assigned to an element
+
+### contains
+
+> `contains()` method will return a boolean, true if classlist contains
+> specified class, false if it does not
+
+### item
+
+> `item()` method will return the class name at a given index. if index is empty
+> will return null.
+
+### example
+
+```html
+<div id="test" class="red blue green"></div>
+```
+
+```js
+const test = document.getElementById("test");
+console.log(test.classList.length()); // will log 3
+console.log(test.classList.contains("yellow")); // will log false
+consol.log(test.classlist.item(2)); // will log green
+```
+
 #### note
 
 > there are many classlist methods out there. the four i described below are
