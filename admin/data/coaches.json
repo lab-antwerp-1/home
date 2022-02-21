@@ -111,12 +111,6 @@
   },
   {
     "name": "Roy Melaerts",
-    "userName": "MichielPovre",
-    "homePage": "",
-    "modules": ["debugging", "React"]
-  },
-  {
-    "name": "Roy Melaerts",
     "userName": "",
     "homePage": "",
     "modules": ["debugging", "React"]
@@ -129,7 +123,7 @@
   },
   {
     "name": "Francis Didden",
-    "userName": "",
+    "userName": "francisdidden",
     "homePage": "",
     "modules": ["separation of concerns"]
   }
