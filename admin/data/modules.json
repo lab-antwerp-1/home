@@ -48,26 +48,32 @@
   },
   {
     "milestone": 9,
-    "name": "architecture",
-    "chapters": 4,
-    "board": "deliverables"
-  },
-  {
-    "milestone": 10,
     "name": "asynchronous-programming",
     "chapters": 3,
     "board": "deliverables"
   },
   {
-    "milestone": 11,
+    "milestone": 10,
     "name": "cloud-based-backends",
     "chapters": 3,
     "board": "deliverables"
   },
   {
-    "milestone": 13,
+    "milestone": 11,
+    "name": "Frontend Frameworks",
+    "chapters": 3,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 12,
+    "name": "Individual Project",
+    "chapters": 2,
+    "board": "deliverables"
+  },
+  {
+    "milestone": 12,
     "name": "final-project",
-    "chapters": 4,
+    "chapters": 5,
     "board": "deliverables"
   }
 ]
