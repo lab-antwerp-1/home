@@ -534,7 +534,7 @@ locally.
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aarnochauveau">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Aarnochauveau+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Aarnochauveau">commented</a></li>
         <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Aarnochauveau">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Aarnochauveau+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Aarnochauveau">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Aarnochauveau+is%3Apr">reviewed</a></li>
        <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Aarnochauveau">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Aarnochauveau">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Aarnochauveau">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Aarnochauveau">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Aarnochauveau">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Aarnochauveau">discussions</a>
-<li><code>UX/UI Design,Welcome to JS,Architecture,Asynchronous Programming,final-project</code></li>    </ul>
+<li><code>UX/UI Design,Welcome to JS,Asynchronous Programming,final-project</code></li>    </ul>
   </td>
 </tr></table></li>
 <li><table><tr>
@@ -545,7 +545,9 @@ locally.
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3ALorenzoDeBie">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3ALorenzoDeBie+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3ALorenzoDeBie">commented</a></li>
         <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3ALorenzoDeBie">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3ALorenzoDeBie+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3ALorenzoDeBie">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3ALorenzoDeBie+is%3Apr">reviewed</a></li>
        <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3ALorenzoDeBie">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3ALorenzoDeBie">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3ALorenzoDeBie">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3ALorenzoDeBie">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3ALorenzoDeBie">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3ALorenzoDeBie">discussions</a>
-<li><code>Welcome to JS,Cloud-based backends</code></li>    </ul>
+<li><code>Welcome to JS</code></li>
+<li><code>debugging</code></li>
+<li><code>Cloud-based backends</code></li>    </ul>
   </td>
 </tr></table></li>
 <li><table><tr>
@@ -556,13 +558,106 @@ locally.
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AThibautHumblet">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AThibautHumblet+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AThibautHumblet">commented</a></li>
         <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3AThibautHumblet">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3AThibautHumblet+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3AThibautHumblet">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3AThibautHumblet+is%3Apr">reviewed</a></li>
        <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3AThibautHumblet">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3AThibautHumblet">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3AThibautHumblet">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3AThibautHumblet">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3AThibautHumblet">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3AThibautHumblet">discussions</a>
-<li><code>UX/UI Design,Welcome to JS,Behavior Strategy & Implementation,final-project</code></li>    </ul>
+<li><code>UX/UI Design,Welcome to JS,Behavior Strategy & Implementation,Separation of concerns,final-project</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/sandermaas.jpeg' height="150px" width="150px" alt='Sander Maas' /></td>
+  <td> <h3 display="inline">Sander Maas</h3>
+    <ul>
+        <li>github: <a href="https://github.com/sandermaas" >sandermaas</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Asandermaas">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Asandermaas+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Asandermaas">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Asandermaas">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Asandermaas+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Asandermaas">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Asandermaas+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Asandermaas">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Asandermaas">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Asandermaas">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Asandermaas">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Asandermaas">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Asandermaas">discussions</a>
+<li><code>welcome-to-js</code></li>
+<li><code>behavior-strategy-implementation</code></li>
+<li><code>architecture</code></li>
+<li><code>asynchronous-programming</code></li>
+<li><code>React</code></li>
+<li><code>final-project</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/YassineBouzeya.jpeg' height="150px" width="150px" alt='Yassine Bouzeya' /></td>
+  <td> <h3 display="inline">Yassine Bouzeya</h3>
+    <ul>
+        <li>github: <a href="https://github.com/YassineBouzeya" >YassineBouzeya</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AYassineBouzeya">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AYassineBouzeya+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AYassineBouzeya">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3AYassineBouzeya">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3AYassineBouzeya+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3AYassineBouzeya">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3AYassineBouzeya+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3AYassineBouzeya">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3AYassineBouzeya">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3AYassineBouzeya">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3AYassineBouzeya">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3AYassineBouzeya">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3AYassineBouzeya">discussions</a>
+<li><code>welcome-to-js</code></li>
+<li><code>debugging</code></li>
+<li><code>behavior-strategy-implementation</code></li>
+<li><code>separation of concerns</code></li>
+<li><code>final-project</code></li>
+<li><code>Cloud-based backends</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/MichielPovre.jpeg' height="150px" width="150px" alt='Michiel Povré' /></td>
+  <td> <h3 display="inline">Michiel Povré</h3>
+    <ul>
+        <li>github: <a href="https://github.com/MichielPovre" >MichielPovre</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AMichielPovre">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AMichielPovre+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AMichielPovre">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3AMichielPovre">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3AMichielPovre+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3AMichielPovre">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3AMichielPovre+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3AMichielPovre">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3AMichielPovre">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3AMichielPovre">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3AMichielPovre">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3AMichielPovre">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3AMichielPovre">discussions</a>
+<li><code>behavior-strategy-implementation</code></li>
+<li><code>separation of concerns</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/MichielPovre.jpeg' height="150px" width="150px" alt='Roy Melaerts' /></td>
+  <td> <h3 display="inline">Roy Melaerts</h3>
+    <ul>
+        <li>github: <a href="https://github.com/MichielPovre" >MichielPovre</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AMichielPovre">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AMichielPovre+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AMichielPovre">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3AMichielPovre">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3AMichielPovre+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3AMichielPovre">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3AMichielPovre+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3AMichielPovre">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3AMichielPovre">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3AMichielPovre">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3AMichielPovre">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3AMichielPovre">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3AMichielPovre">discussions</a>
+<li><code>debugging</code></li>
+<li><code>React</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/.jpeg' height="150px" width="150px" alt='Roy Melaerts' /></td>
+  <td> <h3 display="inline">Roy Melaerts</h3>
+    <ul>
+        <li>github: <a href="https://github.com/" ></a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3A+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3A">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3A+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3A">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3A+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3A">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3A">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3A">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3A">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3A">discussions</a>
+<li><code>debugging</code></li>
+<li><code>React</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/roscams.jpeg' height="150px" width="150px" alt='Stijn Roscam' /></td>
+  <td> <h3 display="inline">Stijn Roscam</h3>
+    <ul>
+        <li>github: <a href="https://github.com/roscams" >roscams</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aroscams">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Aroscams+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Aroscams">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Aroscams">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Aroscams+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Aroscams">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Aroscams+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Aroscams">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Aroscams">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Aroscams">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Aroscams">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Aroscams">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Aroscams">discussions</a>
+<li><code>UX/UI Design</code></li>
+<li><code>welcome to JS</code></li>
+<li><code>debugging</code></li>
+<li><code>final-project</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/.jpeg' height="150px" width="150px" alt='Francis Didden' /></td>
+  <td> <h3 display="inline">Francis Didden</h3>
+    <ul>
+        <li>github: <a href="https://github.com/" ></a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3A+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3A">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3A+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3A">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3A+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3A">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3A">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3A">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3A">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3A">discussions</a>
+<li><code>separation of concerns</code></li>    </ul>
   </td>
 </tr></table></li>
 </ul><br>
 
-[TOP](#home)
 
+[TOP](#home)
 <!-- END COACHES -->
 
 ---

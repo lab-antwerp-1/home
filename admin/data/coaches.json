@@ -60,14 +60,14 @@
     "userName": "arnochauveau",
     "homePage": "",
     "modules": [
-      "UX/UI Design,Welcome to JS,Architecture,Asynchronous Programming,final-project"
+      "UX/UI Design,Welcome to JS,Asynchronous Programming,final-project"
     ]
   },
   {
     "name": "Lorenzo De Bie",
     "userName": "LorenzoDeBie",
     "homePage": "",
-    "modules": ["Welcome to JS,Cloud-based backends"]
+    "modules": ["Welcome to JS", "debugging", "Cloud-based backends"]
   },
   {
     "name": "Thibaut Humblet",
@@ -86,7 +86,51 @@
       "behavior-strategy-implementation",
       "architecture",
       "asynchronous-programming",
+      "React",
       "final-project"
     ]
+  },
+  {
+    "name": "Yassine Bouzeya",
+    "userName": "YassineBouzeya",
+    "homePage": "",
+    "modules": [
+      "welcome-to-js",
+      "debugging",
+      "behavior-strategy-implementation",
+      "separation of concerns",
+      "final-project",
+      "Cloud-based backends"
+    ]
+  },
+  {
+    "name": "Michiel Povré",
+    "userName": "MichielPovre",
+    "homePage": "",
+    "modules": ["behavior-strategy-implementation", "separation of concerns"]
+  },
+  {
+    "name": "Roy Melaerts",
+    "userName": "MichielPovre",
+    "homePage": "",
+    "modules": ["debugging", "React"]
+  },
+  {
+    "name": "Roy Melaerts",
+    "userName": "",
+    "homePage": "",
+    "modules": ["debugging", "React"]
+  },
+  {
+    "name": "Stijn Roscam",
+    "userName": "roscams",
+    "homePage": "",
+    "modules": ["UX/UI Design", "welcome to JS", "debugging", "final-project"]
+  },
+  {
+    "name": "Francis Didden",
+    "userName": "",
+    "homePage": "",
+    "modules": ["separation of concerns"]
   }
 ]
