@@ -1,4 +1,4 @@
-# A function which replaces letters with its alphabet position.
+# A function which replaces letters with its alphabet position
 
 ```js
 /**
