@@ -117,8 +117,8 @@ locally.
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/final-project" style="display: inline">final-project</a></h3>  <ul><li><p>    5 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Afinal-project">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3Afinal-project+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/lab-antwerp-1/home/milestone/12">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/final-project">materials</a>  </p></li></ul></li>
 </ol><br>
 
-
 [TOP](#home)
+
 <!-- END MODULES -->
 
 ---
@@ -390,8 +390,8 @@ locally.
     </table> </li>
 </ul><br>
 
-
 [TOP](#home)
+
 <!-- END STUDENTS -->
 
 ---
@@ -637,8 +637,8 @@ locally.
 </tr></table></li>
 </ul><br>
 
-
 [TOP](#home)
+
 <!-- END COACHES -->
 
 ---
