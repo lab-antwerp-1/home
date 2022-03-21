@@ -2,7 +2,7 @@
 
 ## description
 
-> `async` / `await` is relatively new syntax introduced with ES8 to help coders
+> `async` / `await` is relatively new syntax introduced with ES6 to help coders
 > write more readable code for handling promises. It replaces the `.then()` /
 > `.catch()` syntax that can be a bit 'dense' looking.
 
