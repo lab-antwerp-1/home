@@ -21,4 +21,4 @@ you choose to store it, text is always one of the legal formats.
 
 JSON makes it possible to store JavaScript objects as text.
 
-Source: W3Schools & MDN Docs
+Source: W3Schools!
