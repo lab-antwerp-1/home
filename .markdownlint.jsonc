@@ -172,7 +172,13 @@
   "MD033": {
     // Allowed elements
     "allowed_elements": [
+      "table",
+      "td",
       "summary",
+      "tr",
+      "img",
+      "tr",
+      "img",
       "details",
       "li",
       "ul",
