@@ -16,9 +16,7 @@ html code below. save it as index.html*/
     <script src="promises.js"></script>
 </body>
 </html>
-```
-
-```js
+``````js
 //Below is the Javascript code. Save it as promises.js
 //Array of objects of some countries with their respective cities.
 
@@ -35,7 +33,7 @@ function getCountry(){
    setTimeout(
     ()=>{
         for(const country of countries){
-            output += `<li>${country.name} - ${country.city}</li>`
+            output += "<li>"+country.name+"-"+country.city+"</li>";
        }
        document.body.innerHTML = output;
     }
@@ -86,4 +84,4 @@ due to the promise ,the updated data is displayed in the browser*/
 // }
 // init()
 //----------------------------------------------------------------------------------
-```
+```;
