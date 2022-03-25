@@ -16,7 +16,8 @@ html code below. save it as index.html*/
     <script src="promises.js"></script>
 </body>
 </html>
-``````js
+``` //Javascript code
+```js
 //Below is the Javascript code. Save it as promises.js
 //Array of objects of some countries with their respective cities.
 
@@ -83,9 +84,5 @@ due to the promise ,the updated data is displayed in the browser*/
 //     getCountry();
 // }
 // init()
-//----------------------------------------------------------------------------------
-<<<<<<< HEAD
+//----------------------------------------------------------------------------------*/
 ```;
-=======
-```
->>>>>>> 37d994c656c55ebcfeb3afad1cff75955671262d
