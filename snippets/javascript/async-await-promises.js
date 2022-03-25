@@ -33,7 +33,7 @@ function getCountry(){
    setTimeout(
     ()=>{
         for(const country of countries){
-            output += "<li>"+country.name+"-"+country.city+"</li>";
+            output += "<li>"+country.name+"-"+country.city+"</li>";           
        }
        document.body.innerHTML = output;
     }
@@ -84,4 +84,8 @@ due to the promise ,the updated data is displayed in the browser*/
 // }
 // init()
 //----------------------------------------------------------------------------------
+<<<<<<< HEAD
 ```;
+=======
+```
+>>>>>>> 37d994c656c55ebcfeb3afad1cff75955671262d
