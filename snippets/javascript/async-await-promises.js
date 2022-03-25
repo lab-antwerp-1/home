@@ -35,7 +35,7 @@ function getCountry(){
    setTimeout(
     ()=>{
         for(const country of countries){
-            output += `<li>${country.name} - ${country.city}</li>`
+            output += output += "<li>"+country.name+"-"+country.city+"</li>";
        }
        document.body.innerHTML = output;
     }
