@@ -126,5 +126,17 @@
     "userName": "francisdidden",
     "homePage": "",
     "modules": ["separation of concerns"]
+  },
+  {
+    "name": "Steven Dobbelaere",
+    "userName": "dobbels",
+    "homePage": "",
+    "modules": ["Headless CMS"]
+  },
+  {
+    "name": "Kenneth De Win",
+    "userName": "knnethdw",
+    "homePage": "",
+    "modules": ["Headless CMS"]
   }
 ]

@@ -8,7 +8,6 @@
 > - [Discussions](https://github.com/lab-antwerp-1/home/discussions/)
 > - [Deliverables](https://github.com/lab-antwerp-1/home/projects/1)
 > - [Random Groups](https://lab-antwerp-1.github.io/home/randomizer)
->
 > <details>
 > <summary>Rubber Ducky</summary>
 >
@@ -111,7 +110,7 @@ locally.
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/behavior-strategy-implementation" style="display: inline">behavior-strategy-implementation</a></h3>  <ul><li><p>    3 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Abehavior-strategy-implementation">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3Abehavior-strategy-implementation+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/lab-antwerp-1/home/milestone/7">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/behavior-strategy-implementation">materials</a>  </p></li></ul></li>
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/separation-of-concerns" style="display: inline">separation-of-concerns</a></h3>  <ul><li><p>    3 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Aseparation-of-concerns">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3Aseparation-of-concerns+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/lab-antwerp-1/home/milestone/8">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/separation-of-concerns">materials</a>  </p></li></ul></li>
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/asynchronous-programming" style="display: inline">asynchronous-programming</a></h3>  <ul><li><p>    3 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Aasynchronous-programming">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3Aasynchronous-programming+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/lab-antwerp-1/home/milestone/9">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/asynchronous-programming">materials</a>  </p></li></ul></li>
-<li><h3><a href="https://home.hackyourfuture.be/curriculum/content-management-systems" style="display: inline">Content-Management-Systems</a></h3>  <ul><li><p>    3 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3AContent-Management-Systems">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3AContent-Management-Systems+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/lab-antwerp-1/home/milestone/10">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/Content-Management-Systems">materials</a>  </p></li></ul></li>
+<li><h3><a href="https://home.hackyourfuture.be/curriculum/Content-Management-Systems" style="display: inline">Content-Management-Systems</a></h3>  <ul><li><p>    3 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3AContent-Management-Systems">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3AContent-Management-Systems+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/lab-antwerp-1/home/milestone/10">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/Content-Management-Systems">materials</a>  </p></li></ul></li>
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/Frontend Frameworks" style="display: inline">Frontend Frameworks</a></h3>  <ul><li><p>    3 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3AFrontend Frameworks">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3AFrontend Frameworks+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/lab-antwerp-1/home/milestone/11">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/Frontend Frameworks">materials</a>  </p></li></ul></li>
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/Individual Project" style="display: inline">Individual Project</a></h3>  <ul><li><p>    2 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3AIndividual Project">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3AIndividual Project+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/lab-antwerp-1/home/milestone/12">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/Individual Project">materials</a>  </p></li></ul></li>
 <li><h3><a href="https://home.hackyourfuture.be/curriculum/final-project" style="display: inline">final-project</a></h3>  <ul><li><p>    5 chapters   | <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=label%3Adeliverable+milestone%3Afinal-project">deliverables</a>    | <a href="https://github.com/lab-antwerp-1/home/issues?q=milestone%3Afinal-project+label%3Acheck-in">check-ins</a>     | <a href="https://github.com/lab-antwerp-1/home/milestone/12">milestone</a> | <a href="https://github.com/HackYourFutureBelgium/final-project">materials</a>  </p></li></ul></li>
@@ -290,20 +289,20 @@ locally.
     </table> </li>
 <li><table>
       <tr>
-        <h3 display="inline" id="Nefn-Lakhouj">Nefn Lakhouj</h3>
+        <h3 display="inline" id="MickDellaert">Mick Dellaert</h3>
         <details>
         <summary>GitHub Stats</summary>
-          <img src="https://ghchart.rshah.org/Nefn-Lakhouj" alt="Nefn Lakhouj github activity" />
-          <img src="https://github-readme-stats.vercel.app/api?username=Nefn-Lakhouj&show_icons=true&theme=default&hide_title=true&hide_rank=true alt="Nefn-Lakhouj github stats" />
+          <img src="https://ghchart.rshah.org/MickDellaert" alt="Mick Dellaert github activity" />
+          <img src="https://github-readme-stats.vercel.app/api?username=MickDellaert&show_icons=true&theme=default&hide_title=true&hide_rank=true alt="MickDellaert github stats" />
         </details>
       </tr>  <tr>
-    <td><img src='./admin/avatars/students/Nefn-Lakhouj.jpeg' height="200px" width="200px" alt='Nefn-Lakhouj avatar' /></td>
+    <td><img src='./admin/avatars/students/MickDellaert.jpeg' height="200px" width="200px" alt='MickDellaert avatar' /></td>
   <td>     <ul>
-       <li>about: <a href="./student-bios/Nefn-Lakhouj.md" target="_blank">bio</a>,      <a href="https://Nefn-Lakhouj.github.io">home page</a>, <a href="https://github.com/Nefn-Lakhouj">Nefn-Lakhouj</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3ANefn-Lakhouj">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3ANefn-Lakhouj+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3ANefn-Lakhouj+label%3Aroll-call">roll-calls</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3ANefn-Lakhouj">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3ANefn-Lakhouj+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3ANefn-Lakhouj">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3ANefn-Lakhouj">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3ANefn-Lakhouj+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3ANefn-Lakhouj">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3ANefn-Lakhouj+is%3Apr">reviewed</a></li>
-       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3ANefn-Lakhouj">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3ANefn-Lakhouj">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3ANefn-Lakhouj">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3ANefn-Lakhouj">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3ANefn-Lakhouj">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3ANefn-Lakhouj">discussions</a>
-        <li><a href="https://github.com/lab-antwerp-1/Nefn-Lakhouj">private repo</a></li>
+       <li>about: <a href="./student-bios/MickDellaert.md" target="_blank">bio</a>,      <a href="https://mickdellaert.vercel.app">home page</a>, <a href="https://github.com/MickDellaert">MickDellaert</a></li>        </li>        <li>HYF: <a href="https://github.com/lab-antwerp-1/home/projects/1?card_filter_query=assignee%3AMickDellaert">deliverables</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+author%3AMickDellaert+label%3Acheck-in">check-ins</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=is%3Aissue+commenter%3AMickDellaert+label%3Aroll-call">roll-calls</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AMickDellaert">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AMickDellaert+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AMickDellaert">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3AMickDellaert">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3AMickDellaert+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3AMickDellaert">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3AMickDellaert+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3AMickDellaert">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3AMickDellaert">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3AMickDellaert">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3AMickDellaert">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3AMickDellaert">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3AMickDellaert">discussions</a>
+        <li><a href="https://github.com/lab-antwerp-1/MickDellaert">private repo</a></li>
     </ul>
   </td>
 </tr>
@@ -587,22 +586,10 @@ locally.
   </td>
 </tr></table></li>
 <li><table><tr>
-  <td><img src='./admin/avatars/coaches/MichielPovre.jpeg' height="150px" width="150px" alt='Roy Melaerts' /></td>
-  <td> <h3 display="inline">Roy Melaerts</h3>
-    <ul>
-        <li>github: <a href="https://github.com/MichielPovre" >MichielPovre</a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3AMichielPovre">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3AMichielPovre+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3AMichielPovre">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3AMichielPovre">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3AMichielPovre+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3AMichielPovre">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3AMichielPovre+is%3Apr">reviewed</a></li>
-       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3AMichielPovre">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3AMichielPovre">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3AMichielPovre">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3AMichielPovre">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3AMichielPovre">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3AMichielPovre">discussions</a>
-<li><code>debugging</code></li>
-<li><code>React</code></li>    </ul>
-  </td>
-</tr></table></li>
-<li><table><tr>
   <td><img src='./admin/avatars/coaches/.jpeg' height="150px" width="150px" alt='Roy Melaerts' /></td>
   <td> <h3 display="inline">Roy Melaerts</h3>
     <ul>
-        <li>github: <a href="https://github.com/" ></a></li>
+        <li>github: <a href="" ></a></li>
         <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3A+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3A">commented</a></li>
         <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3A+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3A">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3A+is%3Apr">reviewed</a></li>
        <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3A">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3A">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3A">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3A">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3A">discussions</a>
@@ -625,14 +612,36 @@ locally.
   </td>
 </tr></table></li>
 <li><table><tr>
-  <td><img src='./admin/avatars/coaches/.jpeg' height="150px" width="150px" alt='Francis Didden' /></td>
+  <td><img src='./admin/avatars/coaches/francisdidden.jpeg' height="150px" width="150px" alt='Francis Didden' /></td>
   <td> <h3 display="inline">Francis Didden</h3>
     <ul>
-        <li>github: <a href="https://github.com/" ></a></li>
-        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3A+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3A">commented</a></li>
-        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3A+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3A">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3A+is%3Apr">reviewed</a></li>
-       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3A">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3A">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3A">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3A">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3A">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3A">discussions</a>
+        <li>github: <a href="https://github.com/francisdidden" >francisdidden</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Afrancisdidden">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Afrancisdidden+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Afrancisdidden">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Afrancisdidden">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Afrancisdidden+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Afrancisdidden">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Afrancisdidden+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Afrancisdidden">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Afrancisdidden">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Afrancisdidden">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Afrancisdidden">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Afrancisdidden">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Afrancisdidden">discussions</a>
 <li><code>separation of concerns</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/dobbels.jpeg' height="150px" width="150px" alt='Steven Dobbelaere' /></td>
+  <td> <h3 display="inline">Steven Dobbelaere</h3>
+    <ul>
+        <li>github: <a href="https://github.com/dobbels" >dobbels</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Adobbels">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Adobbels+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Adobbels">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Adobbels">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Adobbels+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Adobbels">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Adobbels+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Adobbels">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Adobbels">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Adobbels">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Adobbels">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Adobbels">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Adobbels">discussions</a>
+<li><code>Headless CMS</code></li>    </ul>
+  </td>
+</tr></table></li>
+<li><table><tr>
+  <td><img src='./admin/avatars/coaches/knnethdw.jpeg' height="150px" width="150px" alt='Kenneth De Win' /></td>
+  <td> <h3 display="inline">Kenneth De Win</h3>
+    <ul>
+        <li>github: <a href="https://github.com/knnethdw" >knnethdw</a></li>
+        <li>issues: <a href="https://github.com/lab-antwerp-1/home/issues?q=author%3Aknnethdw">opened</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=assignee%3Aknnethdw+is%3Aissue">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/issues?q=commenter%3Aknnethdw">commented</a></li>
+        <li>PRs: <a href="https://github.com/lab-antwerp-1/home/pulls?q=author%3Aknnethdw">opened</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=assignee%3Aknnethdw+is%3Apr">assigned</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=commenter%3Aknnethdw">commented</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=reviewed-by%3Aknnethdw+is%3Apr">reviewed</a></li>
+       <li>discussions: <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=author%3Aknnethdw">opened</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=commenter%3Aknnethdw">commented</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=includes%3Aknnethdw">included</a></li>       <li>mentions: <a href="https://github.com/lab-antwerp-1/home/issues?q=mentions%3Aknnethdw">issues</a>, <a href="https://github.com/lab-antwerp-1/home/pulls?q=mentions%3Aknnethdw">PRs</a>, <a href="https://github.com/lab-antwerp-1/home/discussions?discussions_q=mentions%3Aknnethdw">discussions</a>
+<li><code>Headless CMS</code></li>    </ul>
   </td>
 </tr></table></li>
 </ul><br>
